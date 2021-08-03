@@ -22,6 +22,7 @@ Hey! I’m Max, a second year robotics graduate student at Georgia Tech. My rese
 Some photos
 ![A photo of Joshua Tree NP](/images/joshtree.png)
 
+![A photo of somewhere](/images/astro.png)
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
