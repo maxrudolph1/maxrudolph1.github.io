@@ -87,6 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
+  arxiv            : "https://arxiv.org/search/cs?query=Rudolph%2C+Max&searchtype=author&abstracts=show&order=-announced_date_first&size=50"
   email            :
   researchgate     :  
   uri              :
