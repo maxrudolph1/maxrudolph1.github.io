@@ -19,8 +19,8 @@ Hey! I’m Max, a second year robotics graduate student at Georgia Tech. My rese
 ## For Funzies
 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+Some photos
+![A photo of Joshua Tree NP](/images/joshtree.png)
 
 For more info
 ------
