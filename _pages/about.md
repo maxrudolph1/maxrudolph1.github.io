@@ -14,6 +14,12 @@ Hey! I’m Max, a second year robotics graduate student at Georgia Tech. My rese
 - **M.S. in Electrical and Computer Engineering**, College of Engineering, Georgia Institute of Technology, 2020-2021
 - **B.S. in Electrical and Computer Engineering**, College of Engineering, Georgia Institute of Technology, 2016-2020
 
+## Publications
+
+2. **Rudolph, M.**, Chernova, S., Ravichandar, H. *Desperate Times Call for Desperate Measures: Towards Risk-Adaptive Task Allocation*
+
+1. **Rudolph, M.**, Wilson, S., Egerstedt, M. *Heterogeneous Multi-agent Coverage Control for Range Limited Robots*
+
 ## Work Experience
 
 
