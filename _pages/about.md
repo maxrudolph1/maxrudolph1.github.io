@@ -16,13 +16,18 @@ Hey! I’m Max, a second year robotics graduate student at Georgia Tech. My rese
 
 ## Work Experience
 
+## In the Media
+
+I was part of an intern ![spotlight](https://www.jpl.nasa.gov/edu/news/2020/1/9/intern-turns-head-on-nasas-next-mars-rover/) while working at the Jet Propulsion Lab in case you're interested in what it's like to work as a Mars2020 Intern.
+
 ## For Funzies
+I'm a National Parks enthusiast on my jourrney to visiting all the parks
 
-
-Some photos
+### Joshhua Tree National Park
 ![A photo of Joshua Tree NP](/images/joshtree.png)
 
-![A photo of somewhere](/images/astro.png)
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+### Olympic National Park
+![Olympic NP](/images/olympic.png)
+
+### Everglades National Park
+![Olympic NP](/images/everglades.png)
