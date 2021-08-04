@@ -18,7 +18,7 @@ Hey! I’m Max, a second year robotics graduate student at Georgia Tech. My rese
 
 <ol reversed>
   <li><strong>Rudolph, M.</strong>, Chernova, S., Ravichandar, H. <em> <a href="http://maxrudolph1.github.io/files/iros2021.pdf">Desperate Times Call for Desperate Measures: Towards Risk-Adaptive Task Allocation</a></em>,  In Proc. of The International Conference on Intelligent Robots and Systems (IROS), 2021</li>
-  <li><strong>Rudolph, M.</strong>, Wilson, S., Egerstedt, M. <em>Heterogeneous Multi-agent Coverage Control for Range Limited Robots</em>, In Proc. of The International Conference in Robotics and Automation (ICRA), 2021.</li>
+  <li><strong>Rudolph, M.</strong>, Wilson, S., Egerstedt, M. <em> <a href="http://maxrudolph1.github.io/files/icra2021.pdf">Heterogeneous Multi-agent Coverage Control for Range Limited Robots</a></em>, In Proc. of The International Conference in Robotics and Automation (ICRA), 2021.</li>
 </ol>
 
 
