@@ -16,9 +16,10 @@ Hey! I’m Max, a second year robotics graduate student at Georgia Tech. My rese
 
 ## Work Experience
 
+
 ## In the Media
 
-I was part of an intern ![spotlight](https://www.jpl.nasa.gov/edu/news/2020/1/9/intern-turns-head-on-nasas-next-mars-rover/) while working at the Jet Propulsion Lab in case you're interested in what it's like to work as a Mars2020 Intern.
+I was part of an intern [spotlight](https://www.jpl.nasa.gov/edu/news/2020/1/9/intern-turns-head-on-nasas-next-mars-rover/) while working at the Jet Propulsion Lab in case you're interested in what it's like to work as a Mars2020 Intern.
 
 ## For Funzies
 I'm a National Parks enthusiast on my jourrney to visiting all the parks
