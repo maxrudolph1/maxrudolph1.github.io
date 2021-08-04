@@ -21,6 +21,7 @@ Hey! I’m Max, a second year robotics graduate student at Georgia Tech. My rese
   <li>Tea</li>
   <li>Milk</li>
 </ol>
+
 2. **Rudolph, M.**, Chernova, S., Ravichandar, H. *Desperate Times Call for Desperate Measures: Towards Risk-Adaptive Task Allocation*
 
 1. **Rudolph, M.**, Wilson, S., Egerstedt, M. *Heterogeneous Multi-agent Coverage Control for Range Limited Robots*
@@ -33,7 +34,7 @@ Hey! I’m Max, a second year robotics graduate student at Georgia Tech. My rese
 I was part of an intern [spotlight](https://www.jpl.nasa.gov/edu/news/2020/1/9/intern-turns-head-on-nasas-next-mars-rover/) while working at the Jet Propulsion Lab in case you're interested in what it's like to work as a Mars2020 Intern.
 
 ## For Funzies
-I'm a National Parks enthusiast on my jourrney to visiting all the parks
+When I’m not studying ye ole robots, I like to tickle the ivories (piano), smack the fuzzies (tennis), and consume the dough (bake). I'm also a National Parks enthusiast on my jourrney to visiting all the parks. 
 
 ### Joshhua Tree National Park
 ![Joshua Tree NP](/images/joshtree.png)
