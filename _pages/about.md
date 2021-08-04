@@ -17,8 +17,8 @@ Hey! I’m Max, a second year robotics graduate student at Georgia Tech. My rese
 ## Publications
 
 <ol reversed>
-  <li>**Rudolph, M.**, Chernova, S., Ravichandar, H. *Desperate Times Call for Desperate Measures: Towards Risk-Adaptive Task Allocation*</li>
-  <li>**Rudolph, M.**, Wilson, S., Egerstedt, M. *Heterogeneous Multi-agent Coverage Control for Range Limited Robots*</li>
+  <li><strong>Rudolph, M.</strong>, Chernova, S., Ravichandar, H. <em>Desperate Times Call for Desperate Measures: Towards Risk-Adaptive Task Allocation</em></li>
+  <li><strong>Rudolph, M.</strong>, Wilson, S., Egerstedt, M. <em>Heterogeneous Multi-agent Coverage Control for Range Limited Robots</em></li>
 </ol>
 
 
