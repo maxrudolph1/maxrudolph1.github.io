@@ -31,10 +31,10 @@ I was part of an intern [spotlight](https://www.jpl.nasa.gov/edu/news/2020/1/9/i
 I'm a National Parks enthusiast on my jourrney to visiting all the parks
 
 ### Joshhua Tree National Park
-![A photo of Joshua Tree NP](/images/joshtree.png)
+![Joshua Tree NP](/images/joshtree.png)
 
 ### Olympic National Park
 ![Olympic NP](/images/olympic.png)
 
 ### Everglades National Park
-![Olympic NP](/images/everglades.png)
+![Everglades NP](/images/everglades.png)
