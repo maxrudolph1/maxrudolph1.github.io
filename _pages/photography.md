@@ -22,7 +22,7 @@ redirect_from:
 ![Everglades NP](/images/everglades.png)
 
 ### Great Smoky Mountains National Park
-![Great Smoky Mountains NP](/images/smokymountains.png)
+![Great Smoky Mountains NP](/images/greatsmokymountains.png)
 
 ### Shenandoah National Park
 ![Shenandoah NP](/images/shenandoah.png)
