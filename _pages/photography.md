@@ -30,4 +30,4 @@ redirect_from:
 ![New River Gorge NP](/images/newrivergorge.png)
 
 ### West Virginia Night Sky
-![New River Gorge NP](/images/westvirginia.jpg)
+![West Virginia](/images/westvirginia.png)
