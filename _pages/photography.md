@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Photos of Various Naional Parks
-
+## National Park Photos
 
 ### Joshhua Tree National Park
 ![Joshua Tree NP](/images/joshtree.png)
@@ -29,3 +28,6 @@ redirect_from:
 
 ### New River Gorge National Park
 ![New River Gorge NP](/images/newrivergorge.png)
+
+### West Virginia Night Sky
+![New River Gorge NP](/images/westvirginia.jpg)
