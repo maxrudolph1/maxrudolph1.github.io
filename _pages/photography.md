@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-### Well Camoflouged Frog – Sweetwater State Park, GA
+### Well Camoflaged Frog – Sweetwater State Park, GA
 
 ![FROG](/images/frog.png)
 
