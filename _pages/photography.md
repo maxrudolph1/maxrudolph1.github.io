@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-## National Park Photos
+### Well Camoflouged Frog – Sweetwater State Park, GA
+
+![FROG](/images/frog.png)
 
 ### Joshhua Tree National Park
 ![Joshua Tree NP](/images/joshtree.png)
