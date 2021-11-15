@@ -10,7 +10,7 @@ redirect_from:
 
 Hey! I’m Max, a second year robotics graduate student at Georgia Tech. My research focuses on teaching robots how to control and coordinate themselves. I use deep reinforcement learning to teach teams of heterogeneous robots to coordinate themselves and quadrupedal robots how to navigate in real-world environments. I graduated from Georgia Tech in May 2020 with a degree in electrical engineering and a minor in robotics. 
 
-I do work in the Robot Autonomy and Interacitve Learning lab (<a href="https://www.cc.gatech.edu/~chernova/">RAIL</a>) with Professor <a href="https://rail.gatech.edu/">Sonia Chernova</a> and the Structured Techniques for Algorithmic Robotics lab (<a href="https://harishravichandar.com/">STAR</a>) with Professor <a href="https://harishravichandar.com/">Harish Ravichandar</a> and . I also work closely with Robotics PhD student <a href="https://www.joannetruong.com/">Joanne Truong</a>. 
+I do work in the Robot Autonomy and Interacitve Learning lab (<a href="https://www.cc.gatech.edu/~chernova/">RAIL</a>) with Professor <a href="https://rail.gatech.edu/">Sonia Chernova</a> and the Structured Techniques for Algorithmic Robotics lab (<a href="https://gt-star-lab.github.io/">STAR</a>) with Professor <a href="https://harishravichandar.com/">Harish Ravichandar</a> and . I also work closely with Robotics PhD student <a href="https://www.joannetruong.com/">Joanne Truong</a>. 
 
 ## Education
 - **M.S. in Electrical and Computer Engineering**, College of Engineering, Georgia Institute of Technology, 2020-2021
