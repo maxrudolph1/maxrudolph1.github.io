@@ -34,7 +34,7 @@ I was part of an intern [spotlight](https://www.jpl.nasa.gov/edu/news/2020/1/9/i
 ## For Funzies
 <!-- When I’m not studying robots, I like to tickle the ivories (piano), smack the fuzzies (tennis), and consume the dough (bake). I'm also a National Parks enthusiast on my jourrney to visiting all the parks.  -->
 
-When I’m not studying robots, I like to play tennis and bake. I'm also a National Parks enthusiast on my jourrney to visiting all the parks.
+When I’m not studying robots, I like to play tennis and bake. I'm also a National Parks enthusiast on my journey to visiting all the parks.
 
 ### Joshhua Tree National Park
 ![Joshua Tree NP](/images/joshtree.png)
