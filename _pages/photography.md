@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-### Orion Nebula - Delta, AL
+### Andromeda Galaxy - Delta, AL
 ![ORION](/images/andromeda.jpeg)
 
 ### Well Camoflaged Frog – Sweetwater State Park, GA
