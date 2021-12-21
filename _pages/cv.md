@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here (updated Aug. 2021)](http://maxrudolph1.github.io/files/cv.pdf)
+[Download CV here (updated Dec. 2021)](http://maxrudolph1.github.io/files/cv.pdf)
 
