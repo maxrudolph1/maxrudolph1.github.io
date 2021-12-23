@@ -32,10 +32,10 @@ I do work in the Structured Techniques for Algorithmic Robotics lab (<a href="ht
 
 I was part of an intern [spotlight](https://www.jpl.nasa.gov/edu/news/2020/1/9/intern-turns-head-on-nasas-next-mars-rover/) while working on Mars2020 at the Jet Propulsion Lab.
 
-## When not sheparding robots...
+## When not sheparding robots, 
 <!-- When I’m not studying robots, I like to tickle the ivories (piano), smack the fuzzies (tennis), and consume the dough (bake). I'm also a National Parks enthusiast on my jourrney to visiting all the parks.  -->
 
-When I’m not studying robots, I like to play tennis and bake. I'm also a National Parks enthusiast on my journey to visiting all the parks.
+I like to play tennis and bake. I'm also a National Parks enthusiast on my journey to visiting all the parks.
 
 ### Joshhua Tree National Park
 ![Joshua Tree NP](/images/joshtree.png)
