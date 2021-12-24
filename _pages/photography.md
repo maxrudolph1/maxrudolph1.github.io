@@ -15,7 +15,7 @@ redirect_from:
 ### Well Camoflaged Frog – Sweetwater State Park, GA
 ![FROG](/images/frog.png)
 
-### Joshhua Tree National Park, CA
+### Joshua Tree National Park, CA
 ![Joshua Tree NP](/images/joshtree.png)
 
 ### Olympic National Park, WA
