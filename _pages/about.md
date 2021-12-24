@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey! I’m Max Rueolfasdf, a second year Master's student at Georgia Tech. My research focuses on teaching robots how to control and coordinate themselves. I use reinforcement learning to teach teams of heterogeneous robots to coordinate themselves and quadrupedal robots how to navigate in real-world environments. I graduated from Georgia Tech in May 2020 with a degree in electrical engineering and a minor in robotics. 
+Hey! I’m Max, a second year Master's student at Georgia Tech. My research focuses on teaching robots how to control and coordinate themselves. I use reinforcement learning to teach teams of heterogeneous robots to coordinate themselves and quadrupedal robots how to navigate in real-world environments. I graduated from Georgia Tech in May 2020 with a degree in electrical engineering and a minor in robotics. 
 
 I do work in the Structured Techniques for Algorithmic Robotics lab (<a href="https://star-lab.cc.gatech.edu/">STAR</a>) with Professor <a href="https://harishravichandar.com/">Harish Ravichandar</a> and the Robot Autonomy and Interacitve Learning lab (<a href="https://www.cc.gatech.edu/~chernova/">RAIL</a>) with Professor <a href="https://rail.gatech.edu/">Sonia Chernova</a>. I work closely with Robotics PhD student <a href="https://www.joannetruong.com/">Joanne Truong</a>. 
 
@@ -32,7 +32,7 @@ I do work in the Structured Techniques for Algorithmic Robotics lab (<a href="ht
 
 I was part of an intern [spotlight](https://www.jpl.nasa.gov/edu/news/2020/1/9/intern-turns-head-on-nasas-next-mars-rover/) while working on Mars2020 at the Jet Propulsion Lab.
 
-## When not sheparding robots, 
+## When not sheparding robots...
 
 I like to play tennis and bake. I'm also a National Parks enthusiast on my journey to visiting all the parks.
 
