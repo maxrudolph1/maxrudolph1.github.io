@@ -32,11 +32,11 @@ I do work in the Structured Techniques for Algorithmic Robotics lab (<a href="ht
 
 I was part of an intern [spotlight](https://www.jpl.nasa.gov/edu/news/2020/1/9/intern-turns-head-on-nasas-next-mars-rover/) while working on Mars2020 at the Jet Propulsion Lab.
 
-## When not sheparding robots...
+## When not herding robots...
 
-I like to play tennis and bake. I'm also a National Parks enthusiast on my journey to visiting all the parks.
+I like to play tennis and bake. I'm also a National Parks enthusiast.
 
-### Joshhua Tree National Park
+### Joshua Tree National Park
 ![Joshua Tree NP](/images/joshtree.png)
 
 ### Olympic National Park
