@@ -21,7 +21,7 @@ I do work in the Structured Techniques for Algorithmic Robotics lab (<a href="ht
 <ol reversed>
   <li><strong>Rudolph, M.</strong>, Goecks, V.,  Bohannon, A., Waytowich, N., Ravichandar, H.  <em> A Bi-Level Approach to Learning Coalition Formation and Control from Expert Demonstrations</em>, Under Review, 2021</li>
   <li><strong>Rudolph, M.</strong>, Chernova, S., Ravichandar, H. <em> <a href="http://maxrudolph1.github.io/files/iros2021.pdf">Desperate Times Call for Desperate Measures: Towards Risk-Adaptive Task Allocation</a></em>,  In Proc. of The International Conference on Intelligent Robots and Systems (IROS), 2021</li>
-  <li><strong>Rudolph, M.</strong>, Wilson, S., Egerstedt, M. <em> <a href="http://maxrudolph1.github.io/files/icra2021.pdf">Heterogeneous Multi-agent Coverage Control for Range Limited Robots</a></em>, In Proc. of The International Conference in Robotics and Automation (ICRA), 2021.</li>
+  <li><strong>Rudolph, M.</strong>, Wilson, S., Egerstedt, M. <em> <a href="http://maxrudolph1.github.io/files/icra2021.pdf">Range Limited Coverage Control using Air-Ground Multi-Robot Teams</a></em>, In Proc. of The International Conference in Robotics and Automation (ICRA), 2021.</li>
 </ol>
 
 
