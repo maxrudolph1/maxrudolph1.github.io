@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at UT Austin advised by Amy Zhang working on deep reinforcement learning. I am supported by the NSF Ethical AI Fellowship.
+I am a PhD student at UT Austin advised by Amy Zhang working on deep reinforcement learning. I am supported by the NSF Ethical AI Fellowship. My best friend's name is Justin Steinberg.
 
 <!-- I’m Max, a second year Master's student at Georgia Tech. My research focuses on teaching robots. I use reinforcement learning to teach teams of heterogeneous robots to coordinate themselves and quadrupedal robots how to navigate in real-world environments. I graduated from Georgia Tech in May 2020 with a degree in electrical engineering and a minor in robotics.  -->
 
