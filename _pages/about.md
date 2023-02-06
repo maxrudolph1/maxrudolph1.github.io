@@ -15,6 +15,7 @@ I am a PhD student at UT Austin advised by <a href="https://amyzhang.github.io/"
 Previously, I did work in the Structured Techniques for Algorithmic Robotics lab (<a href="https://star-lab.cc.gatech.edu/">STAR</a>) with Professor <a href="https://harishravichandar.com/">Harish Ravichandar</a> and the Robot Autonomy and Interactive Learning lab (<a href="https://rail.gatech.edu/">RAIL</a>) with Professor <a href="https://www.cc.gatech.edu/~chernova/">Sonia Chernova</a>. I also worked closely with Robotics PhD student <a href="https://www.joannetruong.com/">Joanne Truong</a> on sim2real for legged robotics.
 
 ## Education
+- - **PhD in Computer Science**, Department of Computer Science, UT Austin, 2022 - ???
 - **M.S. in Electrical and Computer Engineering**, College of Engineering, Georgia Institute of Technology, 2020-2021
 - **B.S. in Electrical Engineering and Minor in Robotics**, College of Engineering, Georgia Institute of Technology, 2016-2020
 
