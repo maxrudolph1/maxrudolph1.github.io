@@ -33,7 +33,7 @@ Previously, I did work in the Structured Techniques for Algorithmic Robotics lab
 <!-- ## Work Experience -->
 
 
-## In the Media
+## In the Med
 
 I was part of an intern [spotlight](https://www.jpl.nasa.gov/edu/news/2020/1/9/intern-turns-head-on-nasas-next-mars-rover/) while working on Mars2020 at the Jet Propulsion Lab.
 
