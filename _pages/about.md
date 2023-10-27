@@ -10,8 +10,6 @@ redirect_from:
 
 I am a PhD student at UT Austin advised by <a href="https://amyzhang.github.io/">Amy Zhang</a> working on deep reinforcement learning. I am supported by the NSF Ethical AI Fellowship. I am interested in all sorts of deep reinforcement learning problems but recently, I have been working on RL in heterogeneous multi-agent systems. 
 
-<!-- I’m Max, a second year Master's student at Georgia Tech. My research focuses on teaching robots. I use reinforcement learning to teach teams of heterogeneous robots to coordinate themselves and quadrupedal robots how to navigate in real-world environments. I graduated from Georgia Tech in May 2020 with a degree in electrical engineering and a minor in robotics.  -->
-
 Previously, I did work in the Structured Techniques for Algorithmic Robotics lab (<a href="https://star-lab.cc.gatech.edu/">STAR</a>) with Professor <a href="https://harishravichandar.com/">Harish Ravichandar</a> and the Robot Autonomy and Interactive Learning lab (<a href="https://rail.gatech.edu/">RAIL</a>) with Professor <a href="https://www.cc.gatech.edu/~chernova/">Sonia Chernova</a>. I also worked closely with Robotics PhD student <a href="https://www.joannetruong.com/">Joanne Truong</a> on sim2real for legged robotics.
 
 ## Education
@@ -22,10 +20,10 @@ Previously, I did work in the Structured Techniques for Algorithmic Robotics lab
 ## Publications
 
 <ol reversed>
-
-  <li>Truong, J., <strong>Rudolph, M.</strong>, Yokoyama, N., Chernova, S., Batra, D., Rai, A., <em><a href="https://arxiv.org/abs/2207.10821">Rethinking Sim2Real: Lower Fidelity Simulation Leads to Higher Sim2Real Transfer in Navigation</a></em>, Conference on Robot Learning (CoRL), 2022</li>
-  <li><strong>Rudolph, M.</strong>, Chernova, S., Ravichandar, H. <em> <a href="https://arxiv.org/abs/2108.00346">Desperate Times Call for Desperate Measures: Towards Risk-Adaptive Task Allocation</a></em>,  In Proc. of The International Conference on Intelligent Robots and Systems (IROS), 2021</li>
-  <li><strong>Rudolph, M.</strong>, Wilson, S., Egerstedt, M. <em> <a href="https://arxiv.org/abs/2306.07385">Range Limited Coverage Control using Air-Ground Multi-Robot Teams</a></em>, In Proc. of The International Conference in Robotics and Automation (ICRA), 2021.</li>
+  <li><strong>Max Rudolph*</strong>,Pierce Howell*,Reza Torbati, Kevin Fu, Harish Ravichandar  <em><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=G1a5cBkAAAAJ&citation_for_view=G1a5cBkAAAAJ:2osOgNQ5qMEC">Generalization of Heterogeneous Multi-Robot Policies via Awareness and Communication of Capabilities</a></em>, Conference on Robot Learning (CoRL), 2023</li>
+  <li>Joanne Truong, <strong>Max Rudolph,</strong>, Naoki Yokoyama, Sonia Chernova, Dhruv Batra, Akshara Rai, <em><a href="https://arxiv.org/abs/2207.10821">Rethinking Sim2Real: Lower Fidelity Simulation Leads to Higher Sim2Real Transfer in Navigation</a></em>, Conference on Robot Learning (CoRL), 2022</li>
+  <li><strong>Max Rudolph</strong>, Sonia Chernova, Harish Ravichandar <em> <a href="https://arxiv.org/abs/2108.00346">Desperate Times Call for Desperate Measures: Towards Risk-Adaptive Task Allocation</a></em>,  In Proc. of The International Conference on Intelligent Robots and Systems (IROS), 2021</li>
+  <li><strong>Max Rudolph</strong>, Sean Wilson, Magnus Egerstedt<em> <a href="http://maxrudolph1.github.io/files/icra2021.pdf">Range Limited Coverage Control using Air-Ground Multi-Robot Teams</a></em>, In Proc. of The International Conference in Robotics and Automation (ICRA), 2021.</li>
 </ol>
 
 
@@ -43,10 +41,10 @@ I like to play tennis and bake. I'm also a National Parks enthusiast.
 ### Joshua Tree National Park
 ![Joshua Tree NP](/images/joshtree.png)
 
-### Olympic National Park
-![Olympic NP](/images/olympic.png)
+<!-- ### Olympic National Park
+![Olympic NP](/images/olympic.png) -->
 
 ### Everglades National Park
 ![Everglades NP](/images/everglades.png)
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=XhEKBJ9O2_TthiEi-PwehKPFcGIWFrvadyqAwvkSJEs&cl=ffffff&w=a"></script>
+<!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=XhEKBJ9O2_TthiEi-PwehKPFcGIWFrvadyqAwvkSJEs&cl=ffffff&w=a"></script> -->
