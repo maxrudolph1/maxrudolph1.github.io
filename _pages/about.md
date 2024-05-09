@@ -24,14 +24,12 @@ Previously, I did work in the Structured Techniques for Algorithmic Robotics lab
 ## Publications
 
 <ol reversed>
-  <li><strong>Max Rudolph*</strong>,Pierce Howell*,Reza Torbati, Kevin Fu, Harish Ravichandar  <em><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=G1a5cBkAAAAJ&citation_for_view=G1a5cBkAAAAJ:2osOgNQ5qMEC">Generalization of Heterogeneous Multi-Robot Policies via Awareness and Communication of Capabilities</a></em>, Conference on Robot Learning (CoRL), 2023</li>
+  <li><strong>Max Rudolph*</strong>,Caleb Chuck*,Kevin Black*, Misha Lvovsky, Scott Niekum, Amy Zhang <em><a href="https://arxiv.org/abs/2403.16369">Learning Action-based Representations Using Invariance</a></em>, ArXiv</li>
+  <li><strong>Max Rudolph*</strong>,Pierce Howell*,Reza Torbati, Kevin Fu, Harish Ravichandar  <em><a href="https://arxiv.org/abs/2401.13127">Generalization of Heterogeneous Multi-Robot Policies via Awareness and Communication of Capabilities</a></em>, Conference on Robot Learning (CoRL), 2023</li>
   <li>Joanne Truong, <strong>Max Rudolph,</strong>, Naoki Yokoyama, Sonia Chernova, Dhruv Batra, Akshara Rai, <em><a href="https://arxiv.org/abs/2207.10821">Rethinking Sim2Real: Lower Fidelity Simulation Leads to Higher Sim2Real Transfer in Navigation</a></em>, Conference on Robot Learning (CoRL), 2022</li>
   <li><strong>Max Rudolph</strong>, Sonia Chernova, Harish Ravichandar <em> <a href="https://arxiv.org/abs/2108.00346">Desperate Times Call for Desperate Measures: Towards Risk-Adaptive Task Allocation</a></em>,  In Proc. of The International Conference on Intelligent Robots and Systems (IROS), 2021</li>
-  <li><strong>Max Rudolph</strong>, Sean Wilson, Magnus Egerstedt<em> <a href="http://maxrudolph1.github.io/files/icra2021.pdf">Range Limited Coverage Control using Air-Ground Multi-Robot Teams</a></em>, In Proc. of The International Conference in Robotics and Automation (ICRA), 2021.</li>
+  <li><strong>Max Rudolph</strong>, Sean Wilson, Magnus Egerstedt<em> <a href="https://arxiv.org/abs/2306.07385">Range Limited Coverage Control using Air-Ground Multi-Robot Teams</a></em>, In Proc. of The International Conference in Robotics and Automation (ICRA), 2021.</li>
 </ol>
-
-
-<!-- ## Work Experience -->
 
 
 ## In the Media
@@ -40,15 +38,11 @@ I was part of an intern [spotlight](https://www.jpl.nasa.gov/edu/news/2020/1/9/i
 
 ## When not herding robots...
 
-I like to play tennis and bake. I'm also a National Parks enthusiast.
+I like to play tennis and bake.
 
 ### Joshua Tree National Park
 ![Joshua Tree NP](/images/joshtree.png)
 
-<!-- ### Olympic National Park
-![Olympic NP](/images/olympic.png) -->
-
 ### Everglades National Park
 ![Everglades NP](/images/everglades.png)
 
-<!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=XhEKBJ9O2_TthiEi-PwehKPFcGIWFrvadyqAwvkSJEs&cl=ffffff&w=a"></script> -->
