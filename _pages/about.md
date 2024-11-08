@@ -18,12 +18,12 @@ Previously, I did work in the Structured Techniques for Algorithmic Robotics lab
 - **B.S. in Electrical Engineering and Minor in Robotics**, **Georgia** Institute of **Tech**nology, 2016-2020
 
 ## News
-- August 2024: Our <a href="https://sites.google.com/view/coming-together/home"> workshop<a> on building trust in AI systems was accepted to <a href="https://symposium.tas.ac.uk/2024" >Trustworthy Autonomous Systems 2024</a>
-- May 2024: Began Applied Scientist internship at Amazon working on exploration for reinforcement learning
-- May 2024: Paper on [bisimulation representation learning](https://arxiv.org/abs/2403.16369) for RL accepted at 
-- April 2024: Named **Finalist** in the [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2024-north-america)
-- September 2022: Won [Ethical AI Fellowship](https://ethicalai.utexas.edu/fellowship/)
-- August 2022: startred CS PhD at UT Austin 
+- 08/15/2024: Our <a href="https://sites.google.com/view/coming-together/home"> workshop</a> on building trust in AI systems was accepted to <a href="https://symposium.tas.ac.uk/2024" >Trustworthy Autonomous Systems 2024</a>
+- 05/15/2024: Began Applied Scientist internship at Amazon working on exploration for reinforcement learning
+- 05/03/2024: Paper on [bisimulation representation learning](https://arxiv.org/abs/2403.16369) for RL accepted at 
+- 04/18/2024: Named **Finalist** in the [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2024-north-america)
+- 09/02/2022: Won [Ethical AI Fellowship](https://ethicalai.utexas.edu/fellowship/)
+- 08/16/2022: started CS PhD at UT Austin 
 
 ## Publications
 
