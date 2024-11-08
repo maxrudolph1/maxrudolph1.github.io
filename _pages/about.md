@@ -29,9 +29,13 @@ Previously, I did work in the Structured Techniques for Algorithmic Robotics lab
 
 <ol reversed>
   <li><strong>Max Rudolph*</strong>,Caleb Chuck*,Kevin Black*, Misha Lvovsky, Scott Niekum, Amy Zhang <em><a href="https://arxiv.org/abs/2403.16369">Learning Action-based Representations Using Invariance</a></em>, Reinforcement Learning Conference, 2024</li>
-  <li>Caleb Chuck*, Carl Qi*, Michael Joseph Munje*, Shuozhe Li*, <strong>Max Rudolph*</strong>, Chang Shi*, Siddhant Agarwal*, Harshit Sikchi*, Abhinav Peri, Sarthak Dayal, Evan Kuo, Kavan Mehta, Anthony Wang, Peter Stone, Amy Zhang, Scott Niekum <em><a href="https://arxiv.org/abs/2405.03113" >Robot Air Hockey: A Manipulation Testbed for Robot Learning with Reinforcement Learning</em> </li>
+
+  <li>Caleb Chuck*, Carl Qi*, Michael Joseph Munje*, Shuozhe Li*, <strong>Max Rudolph*</strong>, Chang Shi*, Siddhant Agarwal*, Harshit Sikchi*, Abhinav Peri, Sarthak Dayal, Evan Kuo, Kavan Mehta, Anthony Wang, Peter Stone, Amy Zhang, Scott Niekum <em><a href="https://arxiv.org/abs/2405.03113" >Robot Air Hockey: A Manipulation Testbed for Robot Learning with Reinforcement Learning</a></em> </li>
+
   <li><strong>Max Rudolph*</strong>,Pierce Howell*,Reza Torbati, Kevin Fu, Harish Ravichandar  <em><a href="https://arxiv.org/abs/2401.13127">Generalization of Heterogeneous Multi-Robot Policies via Awareness and Communication of Capabilities</a></em>, Conference on Robot Learning (CoRL), 2023</li>
+
   <li>Joanne Truong, <strong>Max Rudolph,</strong>, Naoki Yokoyama, Sonia Chernova, Dhruv Batra, Akshara Rai, <em><a href="https://arxiv.org/abs/2207.10821">Rethinking Sim2Real: Lower Fidelity Simulation Leads to Higher Sim2Real Transfer in Navigation</a></em>, Conference on Robot Learning (CoRL), 2022</li>
+  
   <li><strong>Max Rudolph</strong>, Sonia Chernova, Harish Ravichandar <em> <a href="https://arxiv.org/abs/2108.00346">Desperate Times Call for Desperate Measures: Towards Risk-Adaptive Task Allocation</a></em>,  In Proc. of The International Conference on Intelligent Robots and Systems (IROS), 2021</li>
   <li><strong>Max Rudolph</strong>, Sean Wilson, Magnus Egerstedt<em> <a href="https://arxiv.org/abs/2306.07385">Range Limited Coverage Control using Air-Ground Multi-Robot Teams</a></em>, In Proc. of The International Conference in Robotics and Automation (ICRA), 2021.</li>
 </ol>
