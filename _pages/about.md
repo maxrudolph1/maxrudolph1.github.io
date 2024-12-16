@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at UT Austin advised by <a href="https://amyzhang.github.io/">Amy Zhang</a> working on deep reinforcement learning. I am supported by the NSF Ethical AI Fellowship. I am interested in all sorts of deep reinforcement learning problems but recently, I have been working on RL in heterogeneous multi-agent systems. 
+I am a PhD student at UT Austin advised by <a href="https://amyzhang.github.io/">Amy Zhang</a> working on deep reinforcement learning. I am supported by the NSF Ethical AI Fellowship. I am interested in all sorts of deep reinforcement learning problems but recently I've been thinking about unsupervised learning within decision-making contexts.
 
 Previously, I did work in the Structured Techniques for Algorithmic Robotics lab (<a href="https://star-lab.cc.gatech.edu/">STAR</a>) with Professor <a href="https://harishravichandar.com/">Harish Ravichandar</a> and the Robot Autonomy and Interactive Learning lab (<a href="https://rail.gatech.edu/">RAIL</a>) with Professor <a href="https://www.cc.gatech.edu/~chernova/">Sonia Chernova</a>. I also worked closely with Robotics PhD student <a href="https://www.joannetruong.com/">Joanne Truong</a> on sim2real for legged robotics.
 
@@ -18,17 +18,19 @@ Previously, I did work in the Structured Techniques for Algorithmic Robotics lab
 - **B.S. in Electrical Engineering and Minor in Robotics**, **Georgia** Institute of **Tech**nology, 2016-2020
 
 ## News
-- 08/15/2024: Our <a href="https://sites.google.com/view/coming-together/home"> workshop</a> on building trust in AI systems was accepted to <a href="https://symposium.tas.ac.uk/2024" >Trustworthy Autonomous Systems 2024</a>
-- 05/15/2024: Began Applied Scientist internship at Amazon working on exploration for reinforcement learning
-- 05/03/2024: Paper on [bisimulation representation learning](https://arxiv.org/abs/2403.16369) for RL accepted at 
-- 04/18/2024: Named **Finalist** in the [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2024-north-america)
-- 09/02/2022: Won [Ethical AI Fellowship](https://ethicalai.utexas.edu/fellowship/)
-- 08/16/2022: started CS PhD at UT Austin 
+- 8/24: Our <a href="https://sites.google.com/view/coming-together/home"> workshop</a> on building trust in AI systems was accepted to <a href="https://symposium.tas.ac.uk/2024" >Trustworthy Autonomous Systems 2024</a>
+- 5/24: Began Applied Scientist internship at Amazon working on exploration for reinforcement learning
+- 5/24: Paper on [bisimulation representation learning](https://arxiv.org/abs/2403.16369) for RL accepted at the Reinforcement Learning Conference 
+- 4/24: Named **Finalist** in the [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2024-north-america)
+- 9/22: Won [Ethical AI Fellowship](https://ethicalai.utexas.edu/fellowship/)
+- 8/22: started CS PhD at UT Austin 
 
 ## Publications
 
-<ol reversed>
-  <li><strong>Max Rudolph*</strong>,Caleb Chuck*,Kevin Black*, Misha Lvovsky, Scott Niekum, Amy Zhang <em><a href="https://arxiv.org/abs/2403.16369">Learning Action-based Representations Using Invariance</a></em>, Reinforcement Learning Conference, 2024</li>
+<l reversed>
+  <li>Harshit Sikchi*, Siddhant Agarwal*, Pranaya Jajoo*, Samyak Parajuli*, Caleb Chuck*, <strong>Max Rudolph*</strong>, Peter Stone, Amy Zhang, Scott Niekum <em><a href="https://hari-sikchi.github.io/rlzero/">RL Zero: Zero-Shot Language to Behaviors without any Supervision</a></em>, ArXiv, 2024</li>
+
+  <li><strong>Max Rudolph*</strong>, Caleb Chuck*, Kevin Black*, Misha Lvovsky, Scott Niekum, Amy Zhang <em><a href="https://arxiv.org/abs/2403.16369">Learning Action-based Representations Using Invariance</a></em>, Reinforcement Learning Conference, 2024</li>
 
   <li><em><a href="https://arxiv.org/abs/2405.03113" >Robot Air Hockey: A Manipulation Testbed for Robot Learning with Reinforcement Learning</a></em>
   Caleb Chuck*, Carl Qi*, Michael Joseph Munje*, Shuozhe Li*, <strong>Max Rudolph*</strong>, Chang Shi*, Siddhant Agarwal*, Harshit Sikchi*, Abhinav Peri, Sarthak Dayal, Evan Kuo, Kavan Mehta, Anthony Wang, Peter Stone, Amy Zhang, Scott Niekum  </li>
@@ -39,7 +41,7 @@ Previously, I did work in the Structured Techniques for Algorithmic Robotics lab
   
   <li><strong>Max Rudolph</strong>, Sonia Chernova, Harish Ravichandar <em> <a href="https://arxiv.org/abs/2108.00346">Desperate Times Call for Desperate Measures: Towards Risk-Adaptive Task Allocation</a></em>,  In Proc. of The International Conference on Intelligent Robots and Systems (IROS), 2021</li>
   <li><strong>Max Rudolph</strong>, Sean Wilson, Magnus Egerstedt<em> <a href="https://arxiv.org/abs/2306.07385">Range Limited Coverage Control using Air-Ground Multi-Robot Teams</a></em>, In Proc. of The International Conference in Robotics and Automation (ICRA), 2021.</li>
-</ol>
+</l>
 
 
 ## In the Media
