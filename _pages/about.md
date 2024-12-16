@@ -28,9 +28,12 @@ Previously, I did work in the Structured Techniques for Algorithmic Robotics lab
 ## Publications
 
 <l reversed>
-  <li>Harshit Sikchi*, Siddhant Agarwal*, Pranaya Jajoo*, Samyak Parajuli*, Caleb Chuck*, <strong>Max Rudolph*</strong>, Peter Stone, Amy Zhang, Scott Niekum <em><a href="https://hari-sikchi.github.io/rlzero/">RL Zero: Zero-Shot Language to Behaviors without any Supervision</a></em>, ArXiv, 2024</li>
+  <li><em><a href="https://hari-sikchi.github.io/rlzero/">RL Zero: Zero-Shot Language to Behaviors without any Supervision</a></em> 
+  Harshit Sikchi*, Siddhant Agarwal*, Pranaya Jajoo*, Samyak Parajuli*, Caleb Chuck*, <strong>Max Rudolph*</strong>, Peter Stone, Amy Zhang, Scott Niekum , ArXiv, 2024</li>
 
-  <li><strong>Max Rudolph*</strong>, Caleb Chuck*, Kevin Black*, Misha Lvovsky, Scott Niekum, Amy Zhang <em><a href="https://arxiv.org/abs/2403.16369">Learning Action-based Representations Using Invariance</a></em>, Reinforcement Learning Conference, 2024</li>
+  <li><em><a href="https://arxiv.org/abs/2403.16369">Learning Action-based Representations Using Invariance</a></em>,
+  <strong>Max Rudolph*</strong>, Caleb Chuck*, Kevin Black*, Misha Lvovsky, Scott Niekum, Amy Zhang 
+   Reinforcement Learning Conference, 2024</li>
 
   <li><em><a href="https://arxiv.org/abs/2405.03113" >Robot Air Hockey: A Manipulation Testbed for Robot Learning with Reinforcement Learning</a></em>
   Caleb Chuck*, Carl Qi*, Michael Joseph Munje*, Shuozhe Li*, <strong>Max Rudolph*</strong>, Chang Shi*, Siddhant Agarwal*, Harshit Sikchi*, Abhinav Peri, Sarthak Dayal, Evan Kuo, Kavan Mehta, Anthony Wang, Peter Stone, Amy Zhang, Scott Niekum  </li>
