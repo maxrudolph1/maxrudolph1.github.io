@@ -28,22 +28,33 @@ Previously, I did work in the Structured Techniques for Algorithmic Robotics lab
 ## Publications
 
 <l reversed>
-  <li><em><a href="https://hari-sikchi.github.io/rlzero/">RL Zero: Zero-Shot Language to Behaviors without any Supervision</a></em> 
-  Harshit Sikchi*, Siddhant Agarwal*, Pranaya Jajoo*, Samyak Parajuli*, Caleb Chuck*, <strong>Max Rudolph*</strong>, Peter Stone, Amy Zhang, Scott Niekum , ArXiv, 2024</li>
+  <li><em><a href="https://hari-sikchi.github.io/rlzero/">RL Zero: Zero-Shot Language to Behaviors without any Supervision</a></em> <br>
+  Harshit Sikchi*, Siddhant Agarwal*, Pranaya Jajoo*, Samyak Parajuli*, Caleb Chuck*, <strong>Max Rudolph*</strong>, Peter Stone, Amy Zhang, Scott Niekum <br>
+  ArXiv, 2024</li>
 
-  <li><em><a href="https://arxiv.org/abs/2403.16369">Learning Action-based Representations Using Invariance</a></em>,
-  <strong>Max Rudolph*</strong>, Caleb Chuck*, Kevin Black*, Misha Lvovsky, Scott Niekum, Amy Zhang 
-   Reinforcement Learning Conference, 2024</li>
+  <li><em><a href="https://arxiv.org/abs/2403.16369">Learning Action-based Representations Using Invariance</a></em><br>
+  <strong>Max Rudolph*</strong>, Caleb Chuck*, Kevin Black*, Misha Lvovsky, Scott Niekum, Amy Zhang <br>
+  Reinforcement Learning Conference, 2024</li>
 
-  <li><em><a href="https://arxiv.org/abs/2405.03113" >Robot Air Hockey: A Manipulation Testbed for Robot Learning with Reinforcement Learning</a></em>
+  <li><em><a href="https://arxiv.org/abs/2405.03113" >Robot Air Hockey: A Manipulation Testbed for Robot Learning with Reinforcement Learning</a></em> <br>
   Caleb Chuck*, Carl Qi*, Michael Joseph Munje*, Shuozhe Li*, <strong>Max Rudolph*</strong>, Chang Shi*, Siddhant Agarwal*, Harshit Sikchi*, Abhinav Peri, Sarthak Dayal, Evan Kuo, Kavan Mehta, Anthony Wang, Peter Stone, Amy Zhang, Scott Niekum  </li>
 
-  <li><strong>Max Rudolph*</strong>,Pierce Howell*,Reza Torbati, Kevin Fu, Harish Ravichandar  <em><a href="https://arxiv.org/abs/2401.13127">Generalization of Heterogeneous Multi-Robot Policies via Awareness and Communication of Capabilities</a></em>, Conference on Robot Learning (CoRL), 2023</li>
+  <li><em><a href="https://arxiv.org/abs/2401.13127">Generalization of Heterogeneous Multi-Robot Policies via Awareness and Communication of Capabilities</a></em><br>
+  <strong>Max Rudolph*</strong>,Pierce Howell*,Reza Torbati, Kevin Fu, Harish Ravichandar<br>
+  Conference on Robot Learning (CoRL), 2023</li>
 
-  <li>Joanne Truong, <strong>Max Rudolph,</strong>, Naoki Yokoyama, Sonia Chernova, Dhruv Batra, Akshara Rai, <em><a href="https://arxiv.org/abs/2207.10821">Rethinking Sim2Real: Lower Fidelity Simulation Leads to Higher Sim2Real Transfer in Navigation</a></em>, Conference on Robot Learning (CoRL), 2022</li>
+  <li><em><a href="https://arxiv.org/abs/2207.10821">Rethinking Sim2Real: Lower Fidelity Simulation Leads to Higher Sim2Real Transfer in Navigation</a></em> <br>
+  Joanne Truong, <strong>Max Rudolph,</strong>, Naoki Yokoyama, Sonia Chernova, Dhruv Batra, Akshara Rai, <br>
+  Conference on Robot Learning (CoRL), 2022</li>
   
-  <li><strong>Max Rudolph</strong>, Sonia Chernova, Harish Ravichandar <em> <a href="https://arxiv.org/abs/2108.00346">Desperate Times Call for Desperate Measures: Towards Risk-Adaptive Task Allocation</a></em>,  In Proc. of The International Conference on Intelligent Robots and Systems (IROS), 2021</li>
-  <li><strong>Max Rudolph</strong>, Sean Wilson, Magnus Egerstedt<em> <a href="https://arxiv.org/abs/2306.07385">Range Limited Coverage Control using Air-Ground Multi-Robot Teams</a></em>, In Proc. of The International Conference in Robotics and Automation (ICRA), 2021.</li>
+  <li><em> <a href="https://arxiv.org/abs/2108.00346">Desperate Times Call for Desperate Measures: Towards Risk-Adaptive Task Allocation</a></em><br>
+  <strong>Max Rudolph</strong>, Sonia Chernova, Harish Ravichandar <br>
+  In Proc. of The International Conference on Intelligent Robots and Systems (IROS), 2021</li>
+
+  <li><em> <a href="https://arxiv.org/abs/2306.07385">Range Limited Coverage Control using Air-Ground Multi-Robot Teams</a></em>
+  <br>
+  <strong>Max Rudolph</strong>, Sean Wilson, Magnus Egerstedt <br>
+  In Proc. of The International Conference in Robotics and Automation (ICRA), 2021.</li>
 </l>
 
 
