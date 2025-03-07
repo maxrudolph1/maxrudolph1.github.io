@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at UT Austin advised by <a href="https://amyzhang.github.io/">Amy Zhang</a> working on deep reinforcement learning. I am supported by the NSF Ethical AI Fellowship. I am interested in all sorts of deep reinforcement learning problems but recently I've been thinking about unsupervised learning within decision-making contexts.
+I am a PhD student at UT Austin advised by <a href="https://amyzhang.github.io/">Amy Zhang</a> working on deep reinforcement learning. I was supported by the NSF Ethical AI Fellowship. I am interested in all sorts of deep reinforcement learning problems but recently I've been thinking about unsupervised learning within decision-making contexts and applying those tools to large-scale robot learning.
 
 Previously, I did work in the Structured Techniques for Algorithmic Robotics lab (<a href="https://star-lab.cc.gatech.edu/">STAR</a>) with Professor <a href="https://harishravichandar.com/">Harish Ravichandar</a> and the Robot Autonomy and Interactive Learning lab (<a href="https://rail.gatech.edu/">RAIL</a>) with Professor <a href="https://www.cc.gatech.edu/~chernova/">Sonia Chernova</a>. I also worked closely with Robotics PhD student <a href="https://www.joannetruong.com/">Joanne Truong</a> on sim2real for legged robotics.
 
