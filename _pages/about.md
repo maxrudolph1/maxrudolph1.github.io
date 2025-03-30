@@ -29,37 +29,44 @@ Previously, I did work in the Structured Techniques for Algorithmic Robotics lab
 
 ## Publications
 
-<l reversed>'
-  <li><a href="https://hari-sikchi.github.io/rlzero/">Reevaluating Policy Gradient Methods for Imperfect-Information Games</a><br>
-  Harshit Sikchi*, Siddhant Agarwal*, Pranaya Jajoo*, Samyak Parajuli*, Caleb Chuck*, <strong>Max Rudolph*</strong>, Peter Stone, Amy Zhang, Scott Niekum <br>
-  [<a href="https://hari-sikchi.github.io/rlzero/">paper</a>] [<a href="#">code</a>] [<a href="#">project page</a>]</li>
+<l reversed>
+  <strong>Reevaluating Policy Gradient Methods for Imperfect-Information Games</strong><br>
+  Max Rudolph*, Nathan Lichtle*, Sobhan Mohammadpour*, Alexandre Bayen, J. Zico Kolter, Amy Zhang, Gabriele Farina, Eugene Vinitsky, Samuel Sokota <br>
+  [<a href="">paper</a>] [<a href="#">code</a>] [<a href="#">project page</a>]
 
-  <li><a href="https://hari-sikchi.github.io/rlzero/">RL Zero: Zero-Shot Language to Behaviors without any Supervision</a><br>
-  Harshit Sikchi*, Siddhant Agarwal*, Pranaya Jajoo*, Samyak Parajuli*, Caleb Chuck*, <strong>Max Rudolph*</strong>, Peter Stone, Amy Zhang, Scott Niekum <br></li>
 
-  <li><a href="https://arxiv.org/abs/2403.16369">Learning Action-based Representations Using Invariance</a><br>
-  <strong>Max Rudolph*</strong>, Caleb Chuck*, Kevin Black*, Misha Lvovsky, Scott Niekum, Amy Zhang <br>
-  Reinforcement Learning Conference, 2024</li>
+  <strong>RL Zero: Zero-Shot Language to Behaviors without any Supervision</strong><br>
+  Harshit Sikchi*, Siddhant Agarwal*, Pranaya Jajoo*, Samyak Parajuli*, Caleb Chuck*, Max Rudolph*, Peter Stone, Amy Zhang, Scott Niekum <br>
+  [<a href="https://hari-sikchi.github.io/rlzero/">paper</a>] [<a href="#">code</a>] [<a href="#">project page</a>]
 
-  <li><a href="https://arxiv.org/abs/2405.03113" >Robot Air Hockey: A Manipulation Testbed for Robot Learning with Reinforcement Learning</a> <br>
-  Caleb Chuck*, Carl Qi*, Michael Joseph Munje*, Shuozhe Li*, <strong>Max Rudolph*</strong>, Chang Shi*, Siddhant Agarwal*, Harshit Sikchi*, Abhinav Peri, Sarthak Dayal, Evan Kuo, Kavan Mehta, Anthony Wang, Peter Stone, Amy Zhang, Scott Niekum  </li>
+  <strong>Learning Action-based Representations Using Invariance</strong><br>
+  Max Rudolph*, Caleb Chuck*, Kevin Black*, Misha Lvovsky, Scott Niekum, Amy Zhang <br>
+  Reinforcement Learning Conference, 2024<br>
+  [<a href="https://arxiv.org/abs/2403.16369">paper</a>] [<a href="#">code</a>] [<a href="#">project page</a>]
 
-  <li><a href="https://arxiv.org/abs/2401.13127">Generalization of Heterogeneous Multi-Robot Policies via Awareness and Communication of Capabilities</a><br>
-  <strong>Max Rudolph*</strong>,Pierce Howell*,Reza Torbati, Kevin Fu, Harish Ravichandar<br>
-  Conference on Robot Learning (CoRL), 2023</li>
+  <strong>Robot Air Hockey: A Manipulation Testbed for Robot Learning with Reinforcement Learning</strong><br>
+  Caleb Chuck*, Carl Qi*, Michael Joseph Munje*, Shuozhe Li*, Max Rudolph*, Chang Shi*, Siddhant Agarwal*, Harshit Sikchi*, Abhinav Peri, Sarthak Dayal, Evan Kuo, Kavan Mehta, Anthony Wang, Peter Stone, Amy Zhang, Scott Niekum <br>
+  [<a href="https://arxiv.org/abs/2405.03113">paper</a>] [<a href="#">code</a>] [<a href="#">project page</a>]
 
-  <li><a href="https://arxiv.org/abs/2207.10821">Rethinking Sim2Real: Lower Fidelity Simulation Leads to Higher Sim2Real Transfer in Navigation</a> <br>
-  Joanne Truong, <strong>Max Rudolph,</strong>, Naoki Yokoyama, Sonia Chernova, Dhruv Batra, Akshara Rai, <br>
-  Conference on Robot Learning (CoRL), 2022</li>
+  <strong>Generalization of Heterogeneous Multi-Robot Policies via Awareness and Communication of Capabilities</strong><br>
+  Max Rudolph*,Pierce Howell*,Reza Torbati, Kevin Fu, Harish Ravichandar<br>
+  Conference on Robot Learning (CoRL), 2023<br>
+  [<a href="https://arxiv.org/abs/2401.13127">paper</a>] [<a href="#">code</a>] [<a href="#">project page</a>]
+
+  <strong>Rethinking Sim2Real: Lower Fidelity Simulation Leads to Higher Sim2Real Transfer in Navigation</strong><br>
+  Joanne Truong, Max Rudolph, Naoki Yokoyama, Sonia Chernova, Dhruv Batra, Akshara Rai, <br>
+  Conference on Robot Learning (CoRL), 2022<br>
+  [<a href="https://arxiv.org/abs/2207.10821">paper</a>] [<a href="#">code</a>] [<a href="#">project page</a>]
   
-  <li> <a href="https://arxiv.org/abs/2108.00346">Desperate Times Call for Desperate Measures: Towards Risk-Adaptive Task Allocation</a><br>
-  <strong>Max Rudolph</strong>, Sonia Chernova, Harish Ravichandar <br>
-  In Proc. of The International Conference on Intelligent Robots and Systems (IROS), 2021</li>
+  <strong>Desperate Times Call for Desperate Measures: Towards Risk-Adaptive Task Allocation</strong><br>
+  Max Rudolph, Sonia Chernova, Harish Ravichandar <br>
+  In Proc. of The International Conference on Intelligent Robots and Systems (IROS), 2021<br>
+  [<a href="https://arxiv.org/abs/2108.00346">paper</a>] [<a href="#">code</a>] [<a href="#">project page</a>]
 
-  <li> <a href="https://arxiv.org/abs/2306.07385">Range Limited Coverage Control using Air-Ground Multi-Robot Teams</a>
-  <br>
-  <strong>Max Rudolph</strong>, Sean Wilson, Magnus Egerstedt <br>
-  In Proc. of The International Conference in Robotics and Automation (ICRA), 2021.</li>
+  <strong>Range Limited Coverage Control using Air-Ground Multi-Robot Teams</strong><br>
+  Max Rudolph, Sean Wilson, Magnus Egerstedt <br>
+  In Proc. of The International Conference in Robotics and Automation (ICRA), 2021.<br>
+  [<a href="https://arxiv.org/abs/2306.07385">paper</a>] [<a href="#">code</a>] [<a href="#">project page</a>]
 </l>
 
 
