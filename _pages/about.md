@@ -32,23 +32,23 @@ Previously, I did work in the Structured Techniques for Algorithmic Robotics lab
 <l reversed>
   <strong>Reevaluating Policy Gradient Methods for Imperfect-Information Games</strong><br>
   Max Rudolph*, Nathan Lichtle*, Sobhan Mohammadpour*, Alexandre Bayen, J. Zico Kolter, Amy Zhang, Gabriele Farina, Eugene Vinitsky, Samuel Sokota <br>
-  [<a href="">paper</a>] [<a href="#">code</a>] [<a href="#">project page</a>]
+  [<a href="">paper</a>] [<a href="#">code</a>] [<a href="#">project page</a>]<br>
 
 
   <strong>RL Zero: Zero-Shot Language to Behaviors without any Supervision</strong><br>
   Harshit Sikchi*, Siddhant Agarwal*, Pranaya Jajoo*, Samyak Parajuli*, Caleb Chuck*, Max Rudolph*, Peter Stone, Amy Zhang, Scott Niekum <br>
-  [<a href="https://hari-sikchi.github.io/rlzero/">paper</a>] [<a href="#">code</a>] [<a href="#">project page</a>]
+  [<a href="https://hari-sikchi.github.io/rlzero/">paper</a>] [<a href="#">code</a>] [<a href="#">project page</a>]<br>
 
 
   <strong>Learning Action-based Representations Using Invariance</strong><br>
   Max Rudolph*, Caleb Chuck*, Kevin Black*, Misha Lvovsky, Scott Niekum, Amy Zhang <br>
   Reinforcement Learning Conference, 2024<br>
-  [<a href="https://arxiv.org/abs/2403.16369">paper</a>] [<a href="#">code</a>] [<a href="#">project page</a>]
+  [<a href="https://arxiv.org/abs/2403.16369">paper</a>] [<a href="#">code</a>] [<a href="#">project page</a>]<br>
 
 
   <strong>Robot Air Hockey: A Manipulation Testbed for Robot Learning with Reinforcement Learning</strong><br>
   Caleb Chuck*, Carl Qi*, Michael Joseph Munje*, Shuozhe Li*, Max Rudolph*, Chang Shi*, Siddhant Agarwal*, Harshit Sikchi*, Abhinav Peri, Sarthak Dayal, Evan Kuo, Kavan Mehta, Anthony Wang, Peter Stone, Amy Zhang, Scott Niekum <br>
-  [<a href="https://arxiv.org/abs/2405.03113">paper</a>] [<a href="#">code</a>] [<a href="#">project page</a>]
+  [<a href="https://arxiv.org/abs/2405.03113">paper</a>] [<a href="#">code</a>] [<a href="#">project page</a>]<br>
 
 
   <strong>Generalization of Heterogeneous Multi-Robot Policies via Awareness and Communication of Capabilities</strong><br>
