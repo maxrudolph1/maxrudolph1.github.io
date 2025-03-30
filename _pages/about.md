@@ -19,60 +19,60 @@ Previously, I did work in the Structured Techniques for Algorithmic Robotics lab
 - **M.S. in Electrical and Computer Engineering**, **Georgia** Institute of **Tech**nology, 2020-2021
 - **B.S. in Electrical Engineering and Minor in Robotics**, **Georgia** Institute of **Tech**nology, 2016-2020
 
-## News
+<!-- ## News
 - 8/24: Our <a href="https://sites.google.com/view/coming-together/home"> workshop</a> on building trust in AI systems was accepted to <a href="https://symposium.tas.ac.uk/2024" >Trustworthy Autonomous Systems 2024</a>
 - 5/24: Began Applied Scientist internship at Amazon working on exploration for reinforcement learning
 - 5/24: Paper on [bisimulation representation learning](https://arxiv.org/abs/2403.16369) for RL accepted at the Reinforcement Learning Conference 
 - 4/24: Named **Finalist** in the [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2024-north-america)
 - 9/22: Awarded [Ethical AI Fellowship](https://ethicalai.utexas.edu/fellowship/)
-- 8/22: started CS PhD at UT Austin 
+- 8/22: started CS PhD at UT Austin  -->
 
 ## Publications
 
 <l reversed>
   <strong>Reevaluating Policy Gradient Methods for Imperfect-Information Games</strong><br>
   Max Rudolph*, Nathan Lichtle*, Sobhan Mohammadpour*, Alexandre Bayen, J. Zico Kolter, Amy Zhang, Gabriele Farina, Eugene Vinitsky, Samuel Sokota <br>
-  [<a href="">paper</a>] [<a href="#">code</a>] [<a href="#">project page</a>]<br>
+  [<a href="">paper</a>] [<a href="#">code</a>] [<a href="#">project page</a>]<br><br>
 
 
   <strong>RL Zero: Zero-Shot Language to Behaviors without any Supervision</strong><br>
   Harshit Sikchi*, Siddhant Agarwal*, Pranaya Jajoo*, Samyak Parajuli*, Caleb Chuck*, Max Rudolph*, Peter Stone, Amy Zhang, Scott Niekum <br>
-  [<a href="https://hari-sikchi.github.io/rlzero/">paper</a>] [<a href="#">code</a>] [<a href="#">project page</a>]<br>
+  [<a href="https://hari-sikchi.github.io/rlzero/">paper</a>] [<a href="#">code</a>] [<a href="#">project page</a>]<br><br>
 
 
   <strong>Learning Action-based Representations Using Invariance</strong><br>
   Max Rudolph*, Caleb Chuck*, Kevin Black*, Misha Lvovsky, Scott Niekum, Amy Zhang <br>
   Reinforcement Learning Conference, 2024<br>
-  [<a href="https://arxiv.org/abs/2403.16369">paper</a>] [<a href="#">code</a>] [<a href="#">project page</a>]<br>
+  [<a href="https://arxiv.org/abs/2403.16369">paper</a>] [<a href="#">code</a>] [<a href="#">project page</a>]<br><br>
 
 
   <strong>Robot Air Hockey: A Manipulation Testbed for Robot Learning with Reinforcement Learning</strong><br>
   Caleb Chuck*, Carl Qi*, Michael Joseph Munje*, Shuozhe Li*, Max Rudolph*, Chang Shi*, Siddhant Agarwal*, Harshit Sikchi*, Abhinav Peri, Sarthak Dayal, Evan Kuo, Kavan Mehta, Anthony Wang, Peter Stone, Amy Zhang, Scott Niekum <br>
-  [<a href="https://arxiv.org/abs/2405.03113">paper</a>] [<a href="#">code</a>] [<a href="#">project page</a>]<br>
+  [<a href="https://arxiv.org/abs/2405.03113">paper</a>] [<a href="#">code</a>] [<a href="#">project page</a>]<br><br>
 
 
   <strong>Generalization of Heterogeneous Multi-Robot Policies via Awareness and Communication of Capabilities</strong><br>
   Max Rudolph*,Pierce Howell*,Reza Torbati, Kevin Fu, Harish Ravichandar<br>
   Conference on Robot Learning (CoRL), 2023<br>
-  [<a href="https://arxiv.org/abs/2401.13127">paper</a>] [<a href="#">code</a>] [<a href="#">project page</a>]
+  [<a href="https://arxiv.org/abs/2401.13127">paper</a>] [<a href="#">code</a>] [<a href="#">project page</a>]<br><br>
 
 
   <strong>Rethinking Sim2Real: Lower Fidelity Simulation Leads to Higher Sim2Real Transfer in Navigation</strong><br>
   Joanne Truong, Max Rudolph, Naoki Yokoyama, Sonia Chernova, Dhruv Batra, Akshara Rai, <br>
   Conference on Robot Learning (CoRL), 2022<br>
-  [<a href="https://arxiv.org/abs/2207.10821">paper</a>] [<a href="#">code</a>] [<a href="#">project page</a>]
+  [<a href="https://arxiv.org/abs/2207.10821">paper</a>] [<a href="#">code</a>] [<a href="#">project page</a>]<br><br>
   
 
   <strong>Desperate Times Call for Desperate Measures: Towards Risk-Adaptive Task Allocation</strong><br>
   Max Rudolph, Sonia Chernova, Harish Ravichandar <br>
   In Proc. of The International Conference on Intelligent Robots and Systems (IROS), 2021<br>
-  [<a href="https://arxiv.org/abs/2108.00346">paper</a>] [<a href="#">code</a>] [<a href="#">project page</a>]
+  [<a href="https://arxiv.org/abs/2108.00346">paper</a>] [<a href="#">code</a>] [<a href="#">project page</a>]<br><br>
 
 
   <strong>Range Limited Coverage Control using Air-Ground Multi-Robot Teams</strong><br>
   Max Rudolph, Sean Wilson, Magnus Egerstedt <br>
   In Proc. of The International Conference in Robotics and Automation (ICRA), 2021.<br>
-  [<a href="https://arxiv.org/abs/2306.07385">paper</a>] [<a href="#">code</a>] [<a href="#">project page</a>]
+  [<a href="https://arxiv.org/abs/2306.07385">paper</a>] [<a href="#">code</a>] [<a href="#">project page</a>]<br><br>
 </l>
 
 
