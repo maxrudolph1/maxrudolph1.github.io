@@ -29,10 +29,12 @@ Previously, I did work in the Structured Techniques for Algorithmic Robotics lab
 
 ## Publications
 
-<l reversed>
+<l reversed>'
   <li><a href="https://hari-sikchi.github.io/rlzero/">RL Zero: Zero-Shot Language to Behaviors without any Supervision</a><br>
-  Harshit Sikchi*, Siddhant Agarwal*, Pranaya Jajoo*, Samyak Parajuli*, Caleb Chuck*, <strong>Max Rudolph*</strong>, Peter Stone, Amy Zhang, Scott Niekum <br>
-  ArXiv, 2024</li>
+  Harshit Sikchi*, Siddhant Agarwal*, Pranaya Jajoo*, Samyak Parajuli*, Caleb Chuck*, <strong>Max Rudolph*</strong>, Peter Stone, Amy Zhang, Scott Niekum <br></li>
+
+  <li><a href="https://hari-sikchi.github.io/rlzero/">RL Zero: Zero-Shot Language to Behaviors without any Supervision</a><br>
+  Harshit Sikchi*, Siddhant Agarwal*, Pranaya Jajoo*, Samyak Parajuli*, Caleb Chuck*, <strong>Max Rudolph*</strong>, Peter Stone, Amy Zhang, Scott Niekum <br></li>
 
   <li><a href="https://arxiv.org/abs/2403.16369">Learning Action-based Representations Using Invariance</a><br>
   <strong>Max Rudolph*</strong>, Caleb Chuck*, Kevin Black*, Misha Lvovsky, Scott Niekum, Amy Zhang <br>
