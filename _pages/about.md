@@ -32,29 +32,29 @@ Previously, I did work in the Structured Techniques for Algorithmic Robotics lab
 <l reversed>
   <strong>Reevaluating Policy Gradient Methods for Imperfect-Information Games</strong><br>
   Max Rudolph*, Nathan Lichtle*, Sobhan Mohammadpour*, Alexandre Bayen, J. Zico Kolter, Amy Zhang, Gabriele Farina, Eugene Vinitsky, Samuel Sokota <br>
-  [<a href="">paper</a>] [<a href="#">code</a>] [<a href="#">project page</a>]<br><br>
+  [<a href="https://arxiv.org/pdf/2502.08938">paper</a>] [<a href="https://github.com/nathanlct/IIG-RL-Benchmark">code</a>] [<a href="https://github.com/gabrfarina/exp-a-spiel">exploitability library</a>] [<a href="https://www.nathanlichtle.com/research/2p0s">game demo</a>] <br><br> 
 
 
   <strong>RL Zero: Zero-Shot Language to Behaviors without any Supervision</strong><br>
   Harshit Sikchi*, Siddhant Agarwal*, Pranaya Jajoo*, Samyak Parajuli*, Caleb Chuck*, Max Rudolph*, Peter Stone, Amy Zhang, Scott Niekum <br>
-  [<a href="https://hari-sikchi.github.io/rlzero/">paper</a>] [<a href="#">code</a>] [<a href="#">project page</a>]<br><br>
+  [<a href="https://arxiv.org/abs/2412.05718">paper</a>] [<a href="https://hari-sikchi.github.io/rlzero/">project page</a>]<br><br>
 
 
   <strong>Learning Action-based Representations Using Invariance</strong><br>
   Max Rudolph*, Caleb Chuck*, Kevin Black*, Misha Lvovsky, Scott Niekum, Amy Zhang <br>
   Reinforcement Learning Conference, 2024<br>
-  [<a href="https://arxiv.org/abs/2403.16369">paper</a>] [<a href="#">code</a>] [<a href="#">project page</a>]<br><br>
+  [<a href="https://arxiv.org/abs/2403.16369">paper</a>] [<a href="https://github.com/maxrudolph1/action-bisimulation">code</a>] <br><br>
 
 
   <strong>Robot Air Hockey: A Manipulation Testbed for Robot Learning with Reinforcement Learning</strong><br>
   Caleb Chuck*, Carl Qi*, Michael Joseph Munje*, Shuozhe Li*, Max Rudolph*, Chang Shi*, Siddhant Agarwal*, Harshit Sikchi*, Abhinav Peri, Sarthak Dayal, Evan Kuo, Kavan Mehta, Anthony Wang, Peter Stone, Amy Zhang, Scott Niekum <br>
-  [<a href="https://arxiv.org/abs/2405.03113">paper</a>] [<a href="#">code</a>] [<a href="#">project page</a>]<br><br>
+  [<a href="https://arxiv.org/abs/2405.03113">paper</a>] <br><br>
 
 
   <strong>Generalization of Heterogeneous Multi-Robot Policies via Awareness and Communication of Capabilities</strong><br>
   Max Rudolph*,Pierce Howell*,Reza Torbati, Kevin Fu, Harish Ravichandar<br>
   Conference on Robot Learning (CoRL), 2023<br>
-  [<a href="https://arxiv.org/abs/2401.13127">paper</a>] [<a href="#">code</a>] [<a href="#">project page</a>]<br><br>
+  [<a href="https://arxiv.org/abs/2401.13127">paper</a>] [<a href="https://github.com/GT-STAR-Lab/cap-comm">code</a>] [<a href="https://sites.google.com/view/cap-comm">project page</a>]<br><br>
 
 
   <strong>Rethinking Sim2Real: Lower Fidelity Simulation Leads to Higher Sim2Real Transfer in Navigation</strong><br>
@@ -66,13 +66,13 @@ Previously, I did work in the Structured Techniques for Algorithmic Robotics lab
   <strong>Desperate Times Call for Desperate Measures: Towards Risk-Adaptive Task Allocation</strong><br>
   Max Rudolph, Sonia Chernova, Harish Ravichandar <br>
   In Proc. of The International Conference on Intelligent Robots and Systems (IROS), 2021<br>
-  [<a href="https://arxiv.org/abs/2108.00346">paper</a>] [<a href="#">code</a>] [<a href="#">project page</a>]<br><br>
+  [<a href="https://arxiv.org/abs/2108.00346">paper</a>] [<a href="https://github.com/GT-STAR-Lab/risk_adaptive_task_allocation">code</a>] <br><br>
 
 
   <strong>Range Limited Coverage Control using Air-Ground Multi-Robot Teams</strong><br>
   Max Rudolph, Sean Wilson, Magnus Egerstedt <br>
   In Proc. of The International Conference in Robotics and Automation (ICRA), 2021.<br>
-  [<a href="https://arxiv.org/abs/2306.07385">paper</a>] [<a href="#">code</a>] [<a href="#">project page</a>]<br><br>
+  [<a href="https://arxiv.org/abs/2306.07385">paper</a>] [<a href="https://github.com/maxrudolph1/heterogeneous_coverage_control">code</a>]<br><br>
 </l>
 
 
