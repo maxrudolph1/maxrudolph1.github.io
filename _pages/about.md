@@ -14,6 +14,8 @@ Previously, I did work in the Structured Techniques for Algorithmic Robotics lab
 
 <a href="files/cv_mar25.pdf">Detailed C.V.</a> (updated March 2025) 
 
+I also run the CS Graduate Student organization (<a href="https://www.cs.utexas.edu/~gracs/">GRACS</a>) for UTCS
+
 ## Education
 - **PhD in Computer Science**, UT Austin, 2022 - 
 - **M.S. in Electrical and Computer Engineering**, **Georgia** Institute of **Tech**nology, 2020-2021
@@ -74,6 +76,8 @@ Previously, I did work in the Structured Techniques for Algorithmic Robotics lab
   In Proc. of The International Conference in Robotics and Automation (ICRA), 2021.<br>
   [<a href="https://arxiv.org/abs/2306.07385">paper</a>] [<a href="https://github.com/maxrudolph1/heterogeneous_coverage_control">code</a>]<br><br>
 </l>
+
+
 
 
 ## In the Media
