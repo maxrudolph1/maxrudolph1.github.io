@@ -14,8 +14,6 @@ Previously, I did work in the Structured Techniques for Algorithmic Robotics lab
 
 <a href="files/cv_mar25.pdf">Detailed C.V.</a> (updated March 2025) 
 
-I also run the CS Graduate Student organization (<a href="https://www.cs.utexas.edu/~gracs/">GRACS</a>) for UTCS
-
 ## Education
 - **PhD in Computer Science**, UT Austin, 2022 - 
 - **M.S. in Electrical and Computer Engineering**, **Georgia** Institute of **Tech**nology, 2020-2021
@@ -80,13 +78,11 @@ I also run the CS Graduate Student organization (<a href="https://www.cs.utexas.
 
 
 
-## In the Media
+## Other stuff
+I like to play tennis and bake. I also run the CS Graduate Student organization (<a href="https://www.cs.utexas.edu/~gracs/">GRACS</a>) for UTCS.
+<!-- I was part of an intern [spotlight](https://www.jpl.nasa.gov/edu/news/2020/1/9/intern-turns-head-on-nasas-next-mars-rover/) while working on Mars2020 at the Jet Propulsion Lab.
 
-I was part of an intern [spotlight](https://www.jpl.nasa.gov/edu/news/2020/1/9/intern-turns-head-on-nasas-next-mars-rover/) while working on Mars2020 at the Jet Propulsion Lab.
-
-## When not herding robots...
-
-I like to play tennis and bake.
+## When not herding robots... -->
 
 ### Joshua Tree National Park
 ![Joshua Tree NP](/images/joshtree.png)
