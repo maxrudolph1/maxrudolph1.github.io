@@ -32,13 +32,14 @@ Previously, I did work in the Structured Techniques for Algorithmic Robotics lab
 <l reversed>
   <strong>Reevaluating Policy Gradient Methods for Imperfect-Information Games</strong><br>
   Max Rudolph*, Nathan Lichtle*, Sobhan Mohammadpour*, Alexandre Bayen, J. Zico Kolter, Amy Zhang, Gabriele Farina, Eugene Vinitsky, Samuel Sokota <br>
+  RLC 2025-CoCoMARL Workshop, Oral
   [<a href="https://arxiv.org/pdf/2502.08938">paper</a>] [<a href="https://github.com/nathanlct/IIG-RL-Benchmark">code</a>] [<a href="https://github.com/gabrfarina/exp-a-spiel">exploitability library</a>] [<a href="https://www.nathanlichtle.com/research/2p0s">game demo</a>] <br><br> 
 
 
   <strong>RL Zero: Zero-Shot Language to Behaviors without any Supervision</strong><br>
   Harshit Sikchi*, Siddhant Agarwal*, Pranaya Jajoo*, Samyak Parajuli*, Caleb Chuck*, Max Rudolph*, Peter Stone, Amy Zhang, Scott Niekum <br>
   [<a href="https://arxiv.org/abs/2412.05718">paper</a>] [<a href="https://hari-sikchi.github.io/rlzero/">project page</a>]<br><br>
-
+  
 
   <strong>Learning Action-based Representations Using Invariance</strong><br>
   Max Rudolph*, Caleb Chuck*, Kevin Black*, Misha Lvovsky, Scott Niekum, Amy Zhang <br>
@@ -60,6 +61,7 @@ Previously, I did work in the Structured Techniques for Algorithmic Robotics lab
   <strong>Rethinking Sim2Real: Lower Fidelity Simulation Leads to Higher Sim2Real Transfer in Navigation</strong><br>
   Joanne Truong, Max Rudolph, Naoki Yokoyama, Sonia Chernova, Dhruv Batra, Akshara Rai, <br>
   Conference on Robot Learning (CoRL), 2022<br>
+  CoRL, 2022– Sim-to-Real Robot Learning: Locomotion and Beyond Workshop, Spotlight
   [<a href="https://arxiv.org/abs/2207.10821">paper</a>] [<a href="#">code</a>] [<a href="#">project page</a>]<br><br>
   
 
@@ -74,8 +76,6 @@ Previously, I did work in the Structured Techniques for Algorithmic Robotics lab
   In Proc. of The International Conference in Robotics and Automation (ICRA), 2021.<br>
   [<a href="https://arxiv.org/abs/2306.07385">paper</a>] [<a href="https://github.com/maxrudolph1/heterogeneous_coverage_control">code</a>]<br><br>
 </l>
-
-
 
 
 ## Other stuff
