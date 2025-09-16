@@ -19,13 +19,13 @@ Previously, I did work in the Structured Techniques for Algorithmic Robotics lab
 - **M.S. in Electrical and Computer Engineering**, **Georgia** Institute of **Tech**nology, 2020-2021
 - **B.S. in Electrical Engineering and Minor in Robotics**, **Georgia** Institute of **Tech**nology, 2016-2020
 
-<!-- ## News
-- 8/24: Our <a href="https://sites.google.com/view/coming-together/home"> workshop</a> on building trust in AI systems was accepted to <a href="https://symposium.tas.ac.uk/2024" >Trustworthy Autonomous Systems 2024</a>
+<!-- ## Most Recent -->
+<!-- - 8/24: Our <a href="https://sites.google.com/view/coming-together/home"> workshop</a> on building trust in AI systems was accepted to <a href="https://symposium.tas.ac.uk/2024" >Trustworthy Autonomous Systems 2024</a>
 - 5/24: Began Applied Scientist internship at Amazon working on exploration for reinforcement learning
 - 5/24: Paper on [bisimulation representation learning](https://arxiv.org/abs/2403.16369) for RL accepted at the Reinforcement Learning Conference 
 - 4/24: Named **Finalist** in the [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2024-north-america)
 - 9/22: Awarded [Ethical AI Fellowship](https://ethicalai.utexas.edu/fellowship/)
-- 8/22: started CS PhD at UT Austin  -->
+- 8/22: started CS PhD at UT Austin -->
 
 ## Publications
 
@@ -79,14 +79,15 @@ Previously, I did work in the Structured Techniques for Algorithmic Robotics lab
 
 
 ## Other stuff
-I like to play tennis and bake. I also run the CS Graduate Student organization (<a href="https://www.cs.utexas.edu/~gracs/">GRACS</a>) for UTCS.
-<!-- I was part of an intern [spotlight](https://www.jpl.nasa.gov/edu/news/2020/1/9/intern-turns-head-on-nasas-next-mars-rover/) while working on Mars2020 at the Jet Propulsion Lab.
+I like to play tennis and make [bean-to-bar chocolate](/images/bean_to_bar.jpeg) and [bon bons](/images/earth_day_chocolates.jpeg). I also run the CS Graduate Student organization (<a href="https://www.cs.utexas.edu/~gracs/">GRACS</a>) for UTCS. During undergrad, I was lucky to intern at the National Security Agency and NASA [Jet Propulsion Lab](https://www.jpl.nasa.gov/edu/news/2020/1/9/intern-turns-head-on-nasas-next-mars-rover/) for two summers working on software for the [Mars Perseverence Rover](https://science.nasa.gov/mission/mars-2020-perseverance/) and control algorithms for the [Psyche Mission](https://science.nasa.gov/mission/psyche/).
 
-## When not herding robots... -->
+<!--I was part of an intern [spotlight](https://www.jpl.nasa.gov/edu/news/2020/1/9/intern-turns-head-on-nasas-next-mars-rover/) while working on Mars2020 at the Jet Propulsion Lab.-->
+
+<!-- ## Some 
 
 ### Joshua Tree National Park
 ![Joshua Tree NP](/images/joshtree.png)
 
 ### Everglades National Park
-![Everglades NP](/images/everglades.png)
+![Everglades NP](/images/everglades.png) -->
 
