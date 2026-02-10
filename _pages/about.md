@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at UT Austin advised by <a href="https://amyzhang.github.io/">Amy Zhang</a> working on deep reinforcement learning. I was supported by the NSF Ethical AI Fellowship. I am interested in all sorts of deep reinforcement learning problems but recently I've been thinking about unsupervised learning within decision-making contexts and applying those tools to large-scale robot learning.
+I am a PhD student at UT Austin advised by <a href="https://amyzhang.github.io/">Amy Zhang</a> working on deep reinforcement learning. I was supported by the <a href="https://www.nsf.gov/funding/initiatives/nrt/advancing-ethical-ai-through-convergent-research">NSF NRT Ethical AI Fellowship</a>. I am interested in all sorts of deep reinforcement learning problems but recently I've been thinking about unsupervised learning within decision-making contexts and applying those tools to large-scale robot learning.
 
 Previously, I did work in the Structured Techniques for Algorithmic Robotics lab (<a href="https://star-lab.cc.gatech.edu/">STAR</a>) with Professor <a href="https://harishravichandar.com/">Harish Ravichandar</a> and the Robot Autonomy and Interactive Learning lab (<a href="https://rail.gatech.edu/">RAIL</a>) with Professor <a href="https://www.cc.gatech.edu/~chernova/">Sonia Chernova</a>. I also worked closely with Robotics PhD student <a href="https://www.joannetruong.com/">Joanne Truong</a> on sim2real for legged robotics.
 
@@ -32,12 +32,14 @@ Previously, I did work in the Structured Techniques for Algorithmic Robotics lab
 <l reversed>
   <strong>Reevaluating Policy Gradient Methods for Imperfect-Information Games</strong><br>
   Max Rudolph*, Nathan Lichtle*, Sobhan Mohammadpour*, Alexandre Bayen, J. Zico Kolter, Amy Zhang, Gabriele Farina, Eugene Vinitsky, Samuel Sokota<br>
+  ICLR 2026<br>
   RLC 2025-CoCoMARL Workshop, Oral<br>
   [<a href="https://arxiv.org/pdf/2502.08938">paper</a>] [<a href="https://github.com/nathanlct/IIG-RL-Benchmark">code</a>] [<a href="https://github.com/gabrfarina/exp-a-spiel">exploitability library</a>] [<a href="https://www.nathanlichtle.com/research/2p0s">game demo</a>] <br><br> 
 
 
   <strong>RL Zero: Zero-Shot Language to Behaviors without any Supervision</strong><br>
   Harshit Sikchi*, Siddhant Agarwal*, Pranaya Jajoo*, Samyak Parajuli*, Caleb Chuck*, Max Rudolph*, Peter Stone, Amy Zhang, Scott Niekum <br>
+  NeurIPS 2025<br>
   [<a href="https://arxiv.org/abs/2412.05718">paper</a>] [<a href="https://hari-sikchi.github.io/rlzero/">project page</a>]<br><br>
   
 
