@@ -295,6 +295,10 @@ h2 {
   letter-spacing: -0.045em;
 }
 
+.hero-copy .prose {
+  max-width: 40rem;
+}
+
 .hero-lede {
   margin: 0 0 1.15rem;
   max-width: 28ch;
@@ -306,9 +310,8 @@ h2 {
 }
 
 .hero-byline {
-  margin: 0 0 1.8rem;
-  max-width: 38rem;
-  color: var(--muted);
+  margin: 1.15rem 0 0;
+  max-width: 40rem;
 }
 
 .hero-actions {
@@ -420,41 +423,22 @@ h2 {
   content: " →";
 }
 
-.edu ul {
+.edu-inline {
   list-style: none;
   margin: 0;
   padding: 0;
   display: grid;
-  gap: 1.15rem;
+  gap: 0.65rem;
 }
 
-.edu li {
-  display: grid;
-  gap: 0.15rem;
-  padding-bottom: 1.15rem;
+.edu-inline li {
+  padding-bottom: 0.65rem;
   border-bottom: 1px solid var(--line);
 }
 
-.edu li:last-child {
+.edu-inline li:last-child {
   border-bottom: 0;
   padding-bottom: 0;
-}
-
-.edu-years {
-  font-family: var(--mono);
-  font-size: 0.75rem;
-  color: var(--accent);
-}
-
-.edu strong {
-  font-family: var(--serif);
-  font-size: 1.05rem;
-  font-weight: 500;
-}
-
-.edu span {
-  color: var(--muted);
-  font-size: 0.95rem;
 }
 
 /* Publications */

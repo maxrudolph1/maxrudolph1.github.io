@@ -1,22 +1,20 @@
 ---
 layout: page
-title: Photos
-eyebrow: Field notes
+title: Photography
 permalink: /photos/
 redirect_from:
   - /photography/
   - /photography.html
-lede: National parks, a frog, a galaxy. Click any image to open it larger.
 ---
 <div class="gallery">
   {% for photo in site.data.photos %}
     <figure class="gallery-item">
-      <button type="button" class="gallery-open" data-full="{{ photo.src | relative_url }}" data-caption="{{ photo.title }} — {{ photo.place }}">
+      <button type="button" class="gallery-open" data-full="{{ photo.src | relative_url }}" data-caption="{{ photo.title }}{% if photo.place %} — {{ photo.place }}{% endif %}">
         <img src="{{ photo.src | relative_url }}" alt="{{ photo.alt }}" loading="lazy">
       </button>
       <figcaption>
         <strong>{{ photo.title }}</strong>
-        <span>{{ photo.place }}</span>
+        {% if photo.place %}<span>{{ photo.place }}</span>{% endif %}
       </figcaption>
     </figure>
   {% endfor %}

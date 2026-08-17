@@ -1,47 +1,44 @@
-# Add new photos at the top or anywhere in the list.
-# src should point at a reasonably sized jpg (images/web/).
-
 - title: Andromeda Galaxy
-  place: Delta, Alabama
+  place: Delta, AL
   src: /images/web/andromeda.jpg
-  alt: The Andromeda Galaxy over a dark sky in Alabama
+  alt: Andromeda Galaxy - Delta, AL
 
-- title: Well camouflaged frog
-  place: Sweetwater Creek State Park, Georgia
+- title: Well Camoflaged Frog
+  place: Sweetwater State Park, GA
   src: /images/web/frog.jpg
-  alt: A camouflaged frog on a leaf
+  alt: Well Camoflaged Frog – Sweetwater State Park, GA
 
-- title: Joshua Tree
-  place: Joshua Tree National Park, California
+- title: Joshua Tree National Park
+  place: CA
   src: /images/web/joshtree.jpg
-  alt: Desert landscape in Joshua Tree National Park
+  alt: Joshua Tree National Park, CA
 
-- title: Olympic
-  place: Olympic National Park, Washington
+- title: Olympic National Park
+  place: WA
   src: /images/web/olympic.jpg
-  alt: Forest and coastline in Olympic National Park
+  alt: Olympic National Park, WA
 
-- title: Everglades
-  place: Everglades National Park, Florida
+- title: Everglades National Park
+  place: FL
   src: /images/web/everglades.jpg
-  alt: Wetlands in Everglades National Park
+  alt: Everglades National Park, FL
 
-- title: Great Smoky Mountains
-  place: Great Smoky Mountains National Park, Tennessee
+- title: Great Smoky Mountains National Park
+  place: TN
   src: /images/web/greatsmokymountains.jpg
-  alt: Mountains and haze in the Great Smoky Mountains
+  alt: Great Smoky Mountains National Park, TN
 
-- title: Shenandoah
-  place: Shenandoah National Park, Virginia
+- title: Shenandoah National Park
+  place: VA
   src: /images/web/shenandoah.jpg
-  alt: Ridgeline view in Shenandoah National Park
+  alt: Shenandoah National Park, VA
 
-- title: New River Gorge
-  place: New River Gorge National Park, West Virginia
+- title: New River Gorge National Park
+  place: WV
   src: /images/web/newrivergorge.jpg
-  alt: The New River Gorge in West Virginia
+  alt: New River Gorge National Park, WV
 
-- title: Nantucket
-  place: Nantucket National Wildlife Refuge, Massachusetts
+- title: Nantucket National Wildlife Refuge
+  place: MA
   src: /images/web/ack.jpg
-  alt: Shoreline on Nantucket
+  alt: Nantucket National Wildlife Refuge, MA
