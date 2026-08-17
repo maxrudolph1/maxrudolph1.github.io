@@ -1,0 +1,96 @@
+# Add new papers at the top.
+# Required: title, year, venue, authors
+# Optional: featured (shows on homepage), note, teaser, links[]
+#
+# links is a list of {label, url}. Use any labels you want
+# (paper, code, project, demo, talk, bibtex, ...).
+
+- title: "Reevaluating Policy Gradient Methods for Imperfect-Information Games"
+  year: 2026
+  venue: ICLR
+  authors: "Max Rudolph*, Nathan Lichtle*, Sobhan Mohammadpour*, Alexandre Bayen, J. Zico Kolter, Amy Zhang, Gabriele Farina, Eugene Vinitsky, Samuel Sokota"
+  featured: true
+  note: "Oral at RLC 2025 CoCoMARL Workshop"
+  links:
+    - label: paper
+      url: https://arxiv.org/pdf/2502.08938
+    - label: code
+      url: https://github.com/nathanlct/IIG-RL-Benchmark
+    - label: exploitability library
+      url: https://github.com/gabrfarina/exp-a-spiel
+    - label: game demo
+      url: https://www.nathanlichtle.com/research/2p0s
+
+- title: "RL Zero: Zero-Shot Language to Behaviors without any Supervision"
+  year: 2025
+  venue: NeurIPS
+  authors: "Harshit Sikchi*, Siddhant Agarwal*, Pranaya Jajoo*, Samyak Parajuli*, Caleb Chuck*, Max Rudolph*, Peter Stone, Amy Zhang, Scott Niekum"
+  featured: true
+  links:
+    - label: paper
+      url: https://arxiv.org/abs/2412.05718
+    - label: project
+      url: https://hari-sikchi.github.io/rlzero/
+
+- title: "Learning Action-based Representations Using Invariance"
+  year: 2024
+  venue: RLC
+  authors: "Max Rudolph*, Caleb Chuck*, Kevin Black*, Misha Lvovsky, Scott Niekum, Amy Zhang"
+  featured: true
+  links:
+    - label: paper
+      url: https://arxiv.org/abs/2403.16369
+    - label: code
+      url: https://github.com/maxrudolph1/action-bisimulation
+
+- title: "Robot Air Hockey: A Manipulation Testbed for Robot Learning with Reinforcement Learning"
+  year: 2024
+  venue: ICRA Workshop
+  authors: "Caleb Chuck*, Carl Qi*, Michael Joseph Munje*, Shuozhe Li*, Max Rudolph*, Chang Shi*, Siddhant Agarwal*, Harshit Sikchi*, Abhinav Peri, Sarthak Dayal, Evan Kuo, Kavan Mehta, Anthony Wang, Peter Stone, Amy Zhang, Scott Niekum"
+  note: "Workshop on Manipulation Skills"
+  links:
+    - label: paper
+      url: https://arxiv.org/abs/2405.03113
+
+- title: "Generalization of Heterogeneous Multi-Robot Policies via Awareness and Communication of Capabilities"
+  year: 2023
+  venue: CoRL
+  authors: "Max Rudolph*, Pierce Howell*, Reza Torbati, Kevin Fu, Harish Ravichandar"
+  featured: true
+  links:
+    - label: paper
+      url: https://arxiv.org/abs/2401.13127
+    - label: code
+      url: https://github.com/GT-STAR-Lab/cap-comm
+    - label: project
+      url: https://sites.google.com/view/cap-comm
+
+- title: "Rethinking Sim2Real: Lower Fidelity Simulation Leads to Higher Sim2Real Transfer in Navigation"
+  year: 2022
+  venue: CoRL
+  authors: "Joanne Truong, Max Rudolph, Naoki Yokoyama, Sonia Chernova, Dhruv Batra, Akshara Rai"
+  featured: true
+  note: "Spotlight at the CoRL 2022 Sim-to-Real Robot Learning workshop"
+  links:
+    - label: paper
+      url: https://arxiv.org/abs/2207.10821
+
+- title: "Desperate Times Call for Desperate Measures: Towards Risk-Adaptive Task Allocation"
+  year: 2021
+  venue: IROS
+  authors: "Max Rudolph, Sonia Chernova, Harish Ravichandar"
+  links:
+    - label: paper
+      url: https://arxiv.org/abs/2108.00346
+    - label: code
+      url: https://github.com/GT-STAR-Lab/risk_adaptive_task_allocation
+
+- title: "Range Limited Coverage Control using Air-Ground Multi-Robot Teams"
+  year: 2021
+  venue: ICRA
+  authors: "Max Rudolph, Sean Wilson, Magnus Egerstedt"
+  links:
+    - label: paper
+      url: https://arxiv.org/abs/2306.07385
+    - label: code
+      url: https://github.com/maxrudolph1/heterogeneous_coverage_control

@@ -1,0 +1,21 @@
+---
+layout: page
+title: Research
+eyebrow: Publications
+permalink: /research/
+redirect_from:
+  - /publications/
+  - /publications.html
+lede: Conference papers, workshops, and preprints. Newest first.
+---
+<div class="pub-list pub-list-full">
+  {% assign prev_year = "" %}
+  {% for paper in site.data.publications %}
+    {% assign show_year = false %}
+    {% if paper.year != prev_year %}
+      {% assign show_year = true %}
+      {% assign prev_year = paper.year %}
+    {% endif %}
+    {% include publication.html paper=paper show_year=show_year %}
+  {% endfor %}
+</div>

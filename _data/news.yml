@@ -1,0 +1,30 @@
+# Add new updates at the top. Newest first.
+# when: short date shown in the timeline (e.g. Jan 2026)
+# html: one sentence; links are fine.
+
+- when: Jan 2026
+  html: Paper on reevaluating policy gradient methods for imperfect-information games accepted at <a href="https://arxiv.org/abs/2502.08938">ICLR 2026</a>.
+
+- when: Sep 2025
+  html: <a href="https://arxiv.org/abs/2412.05718">RL Zero</a> accepted at NeurIPS 2025.
+
+- when: Aug 2025
+  html: Oral presentation at the RLC 2025 CoCoMARL workshop.
+
+- when: Aug 2024
+  html: Workshop on <a href="https://sites.google.com/view/coming-together/home">building trust in AI systems</a> accepted at <a href="https://symposium.tas.ac.uk/2024">Trustworthy Autonomous Systems 2024</a>.
+
+- when: May 2024
+  html: Paper on <a href="https://arxiv.org/abs/2403.16369">bisimulation representation learning</a> accepted at the Reinforcement Learning Conference.
+
+- when: May 2024
+  html: Started an Applied Scientist internship at Amazon on exploration for reinforcement learning.
+
+- when: Apr 2024
+  html: Named a Finalist for the <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2024-north-america">Qualcomm Innovation Fellowship</a>.
+
+- when: Sep 2022
+  html: Awarded the <a href="https://ethicalai.utexas.edu/fellowship/">NSF NRT Ethical AI Fellowship</a>.
+
+- when: Aug 2022
+  html: Started a CS PhD at UT Austin, advised by <a href="https://amyzhang.github.io/">Amy Zhang</a>.

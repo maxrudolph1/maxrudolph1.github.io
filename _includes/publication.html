@@ -1,0 +1,22 @@
+{% assign show_year = include.show_year %}
+{% assign highlighted = include.paper.authors | replace: "Max Rudolph", "<span class='me'>Max Rudolph</span>" %}
+<article class="pub">
+  <div class="pub-year" {% unless show_year %}aria-hidden="true"{% endunless %}>
+    {% if show_year %}{{ include.paper.year }}{% endif %}
+  </div>
+  <div class="pub-body">
+    <h3 class="pub-title">{{ include.paper.title }}</h3>
+    <p class="pub-authors">{{ highlighted }}</p>
+    <p class="pub-meta">
+      <span class="venue">{{ include.paper.venue }}</span>
+      {% if include.paper.note %}<span class="pub-note">{{ include.paper.note }}</span>{% endif %}
+    </p>
+    {% if include.paper.links %}
+      <p class="pub-links">
+        {% for link in include.paper.links %}
+          <a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.label }}</a>
+        {% endfor %}
+      </p>
+    {% endif %}
+  </div>
+</article>

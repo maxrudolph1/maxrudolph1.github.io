@@ -1,11 +1,7 @@
-# main links links
-main:
-  # - title: "Publications"
-  #   url: /publications/
-    
-  # - title: "CV"
-  #   url: /cv/
-
-  # - title: "Photography"
-  #   url: /photography/
-    
+- title: Research
+  url: /research/
+- title: Photos
+  url: /photos/
+- title: CV
+  url: /files/rudolph_cv.pdf
+  external: true

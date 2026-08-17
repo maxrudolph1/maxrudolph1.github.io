@@ -1,0 +1,29 @@
+---
+layout: page
+title: Photos
+eyebrow: Field notes
+permalink: /photos/
+redirect_from:
+  - /photography/
+  - /photography.html
+lede: National parks, a frog, a galaxy. Click any image to open it larger.
+---
+<div class="gallery">
+  {% for photo in site.data.photos %}
+    <figure class="gallery-item">
+      <button type="button" class="gallery-open" data-full="{{ photo.src | relative_url }}" data-caption="{{ photo.title }} — {{ photo.place }}">
+        <img src="{{ photo.src | relative_url }}" alt="{{ photo.alt }}" loading="lazy">
+      </button>
+      <figcaption>
+        <strong>{{ photo.title }}</strong>
+        <span>{{ photo.place }}</span>
+      </figcaption>
+    </figure>
+  {% endfor %}
+</div>
+
+<div class="lightbox" hidden>
+  <button type="button" class="lightbox-close" aria-label="Close">Close</button>
+  <img alt="">
+  <p class="lightbox-caption"></p>
+</div>

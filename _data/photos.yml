@@ -1,0 +1,47 @@
+# Add new photos at the top or anywhere in the list.
+# src should point at a reasonably sized jpg (images/web/).
+
+- title: Andromeda Galaxy
+  place: Delta, Alabama
+  src: /images/web/andromeda.jpg
+  alt: The Andromeda Galaxy over a dark sky in Alabama
+
+- title: Well camouflaged frog
+  place: Sweetwater Creek State Park, Georgia
+  src: /images/web/frog.jpg
+  alt: A camouflaged frog on a leaf
+
+- title: Joshua Tree
+  place: Joshua Tree National Park, California
+  src: /images/web/joshtree.jpg
+  alt: Desert landscape in Joshua Tree National Park
+
+- title: Olympic
+  place: Olympic National Park, Washington
+  src: /images/web/olympic.jpg
+  alt: Forest and coastline in Olympic National Park
+
+- title: Everglades
+  place: Everglades National Park, Florida
+  src: /images/web/everglades.jpg
+  alt: Wetlands in Everglades National Park
+
+- title: Great Smoky Mountains
+  place: Great Smoky Mountains National Park, Tennessee
+  src: /images/web/greatsmokymountains.jpg
+  alt: Mountains and haze in the Great Smoky Mountains
+
+- title: Shenandoah
+  place: Shenandoah National Park, Virginia
+  src: /images/web/shenandoah.jpg
+  alt: Ridgeline view in Shenandoah National Park
+
+- title: New River Gorge
+  place: New River Gorge National Park, West Virginia
+  src: /images/web/newrivergorge.jpg
+  alt: The New River Gorge in West Virginia
+
+- title: Nantucket
+  place: Nantucket National Wildlife Refuge, Massachusetts
+  src: /images/web/ack.jpg
+  alt: Shoreline on Nantucket
