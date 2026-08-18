@@ -24,33 +24,4 @@
   {% if page.url == "/" %}
     <link rel="preload" as="image" href="{{ '/images/web/portrait.jpg' | relative_url }}">
   {% endif %}
-
-  <script>
-    (function () {
-      try {
-        var t = localStorage.getItem("theme");
-        if (t === "dark" || t === "light") {
-          document.documentElement.setAttribute("data-theme", t);
-        }
-      } catch (e) {}
-    })();
-  </script>
-  <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Person",
-      "name": "{{ site.author.name }}",
-      "url": "{{ site.url }}{{ site.baseurl }}/",
-      "email": "{{ site.author.email }}",
-      "affiliation": {
-        "@type": "CollegeOrUniversity",
-        "name": "{{ site.author.affiliation }}"
-      },
-      "sameAs": [
-        "{{ site.author.scholar }}",
-        "https://github.com/{{ site.author.github }}",
-        "https://twitter.com/{{ site.author.twitter }}"
-      ]
-    }
-  </script>
 </head>

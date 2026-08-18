@@ -19,7 +19,7 @@ redirect_from:
       </p>
     </div>
     <figure class="hero-photo">
-      <img src="{{ '/images/web/portrait.jpg' | relative_url }}" alt="Max Rudolph in a research lab" width="800" height="1000" fetchpriority="high">
+      <img src="{{ '/images/web/portrait.jpg' | relative_url }}" alt="Max Rudolph" width="800" height="1000" fetchpriority="high">
     </figure>
   </div>
 </section>
@@ -39,31 +39,18 @@ redirect_from:
 
 <section class="band" id="research">
   <div class="wrap">
-    <div class="section-head">
-      <h2>Publications</h2>
-      <a class="text-link" href="{{ '/research/' | relative_url }}">All publications</a>
-    </div>
+    <h2>Publications</h2>
     <div class="pub-list">
+      {% assign prev_year = "" %}
       {% for paper in site.data.publications %}
-        {% if paper.featured %}
-          {% include publication.html paper=paper show_year=true %}
+        {% assign show_year = false %}
+        {% if paper.year != prev_year %}
+          {% assign show_year = true %}
+          {% assign prev_year = paper.year %}
         {% endif %}
+        {% include publication.html paper=paper show_year=show_year %}
       {% endfor %}
     </div>
-  </div>
-</section>
-
-<section class="band band-alt" id="updates">
-  <div class="wrap">
-    <h2>Most Recent</h2>
-    <ol class="news">
-      {% for item in site.data.news %}
-        <li>
-          <time>{{ item.when }}</time>
-          <span>{{ item.html }}</span>
-        </li>
-      {% endfor %}
-    </ol>
   </div>
 </section>
 
@@ -72,17 +59,11 @@ redirect_from:
     <h2>Other stuff</h2>
     <div class="also-grid">
       <div class="prose">
-        <p>I like to play tennis and make bean-to-bar chocolate and bon bons. I also run the CS Graduate Student organization (<a href="https://www.cs.utexas.edu/~gracs/">GRACS</a>) for UTCS. During undergrad, I was lucky to intern at the National Security Agency and NASA <a href="https://www.jpl.nasa.gov/edu/news/2020/1/9/intern-turns-head-on-nasas-next-mars-rover/">Jet Propulsion Lab</a> for two summers working on software for the <a href="https://science.nasa.gov/mission/mars-2020-perseverance/">Mars Perseverence Rover</a> and control algorithms for the <a href="https://science.nasa.gov/mission/psyche/">Psyche Mission</a>.</p>
+        <p>I like to play tennis and make <a href="{{ '/images/web/bean_to_bar.jpg' | relative_url }}">bean-to-bar chocolate</a> and <a href="{{ '/images/web/earth_day_chocolates.jpg' | relative_url }}">bon bons</a>. I also run the CS Graduate Student organization (<a href="https://www.cs.utexas.edu/~gracs/">GRACS</a>) for UTCS. During undergrad, I was lucky to intern at the National Security Agency and NASA <a href="https://www.jpl.nasa.gov/edu/news/2020/1/9/intern-turns-head-on-nasas-next-mars-rover/">Jet Propulsion Lab</a> for two summers working on software for the <a href="https://science.nasa.gov/mission/mars-2020-perseverance/">Mars Perseverence Rover</a> and control algorithms for the <a href="https://science.nasa.gov/mission/psyche/">Psyche Mission</a>.</p>
       </div>
       <div class="also-photos">
-        <figure>
-          <img src="{{ '/images/web/bean_to_bar.jpg' | relative_url }}" alt="Bean-to-bar chocolate" loading="lazy">
-          <figcaption>Bean-to-bar</figcaption>
-        </figure>
-        <figure>
-          <img src="{{ '/images/web/earth_day_chocolates.jpg' | relative_url }}" alt="Bon bons" loading="lazy">
-          <figcaption>Bon bons</figcaption>
-        </figure>
+        <a href="{{ '/images/web/bean_to_bar.jpg' | relative_url }}"><img src="{{ '/images/web/bean_to_bar.jpg' | relative_url }}" alt="" loading="lazy"></a>
+        <a href="{{ '/images/web/earth_day_chocolates.jpg' | relative_url }}"><img src="{{ '/images/web/earth_day_chocolates.jpg' | relative_url }}" alt="" loading="lazy"></a>
       </div>
     </div>
   </div>

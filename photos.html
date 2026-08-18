@@ -9,19 +9,16 @@ redirect_from:
 <div class="gallery">
   {% for photo in site.data.photos %}
     <figure class="gallery-item">
-      <button type="button" class="gallery-open" data-full="{{ photo.src | relative_url }}" data-caption="{{ photo.title }}{% if photo.place %} — {{ photo.place }}{% endif %}">
+      <button type="button" class="gallery-open" data-full="{{ photo.src | relative_url }}" data-caption="{{ photo.title }}">
         <img src="{{ photo.src | relative_url }}" alt="{{ photo.alt }}" loading="lazy">
       </button>
-      <figcaption>
-        <strong>{{ photo.title }}</strong>
-        {% if photo.place %}<span>{{ photo.place }}</span>{% endif %}
-      </figcaption>
+      <figcaption>{{ photo.title }}</figcaption>
     </figure>
   {% endfor %}
 </div>
 
 <div class="lightbox" hidden>
-  <button type="button" class="lightbox-close" aria-label="Close">Close</button>
+  <button type="button" class="lightbox-close" aria-label="×">×</button>
   <img alt="">
   <p class="lightbox-caption"></p>
 </div>

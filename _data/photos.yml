@@ -1,44 +1,35 @@
-- title: Andromeda Galaxy
-  place: Delta, AL
+- title: Andromeda Galaxy - Delta, AL
   src: /images/web/andromeda.jpg
   alt: Andromeda Galaxy - Delta, AL
 
-- title: Well Camoflaged Frog
-  place: Sweetwater State Park, GA
+- title: Well Camoflaged Frog – Sweetwater State Park, GA
   src: /images/web/frog.jpg
   alt: Well Camoflaged Frog – Sweetwater State Park, GA
 
-- title: Joshua Tree National Park
-  place: CA
+- title: Joshua Tree National Park, CA
   src: /images/web/joshtree.jpg
   alt: Joshua Tree National Park, CA
 
-- title: Olympic National Park
-  place: WA
+- title: Olympic National Park, WA
   src: /images/web/olympic.jpg
   alt: Olympic National Park, WA
 
-- title: Everglades National Park
-  place: FL
+- title: Everglades National Park, FL
   src: /images/web/everglades.jpg
   alt: Everglades National Park, FL
 
-- title: Great Smoky Mountains National Park
-  place: TN
+- title: Great Smoky Mountains National Park, TN
   src: /images/web/greatsmokymountains.jpg
   alt: Great Smoky Mountains National Park, TN
 
-- title: Shenandoah National Park
-  place: VA
+- title: Shenandoah National Park, VA
   src: /images/web/shenandoah.jpg
   alt: Shenandoah National Park, VA
 
-- title: New River Gorge National Park
-  place: WV
+- title: New River Gorge National Park, WV
   src: /images/web/newrivergorge.jpg
   alt: New River Gorge National Park, WV
 
-- title: Nantucket National Wildlife Refuge
-  place: MA
+- title: Nantucket National Wildlife Refuge, MA
   src: /images/web/ack.jpg
   alt: Nantucket National Wildlife Refuge, MA

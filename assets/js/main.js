@@ -1,7 +1,6 @@
 (function () {
   var header = document.querySelector(".site-header");
   var navToggle = document.querySelector(".nav-toggle");
-  var themeToggle = document.querySelector(".theme-toggle");
   var lightbox = document.querySelector(".lightbox");
 
   function setScrolled() {
@@ -16,23 +15,6 @@
     navToggle.addEventListener("click", function () {
       var open = header.classList.toggle("is-open");
       navToggle.setAttribute("aria-expanded", open ? "true" : "false");
-    });
-  }
-
-  function currentTheme() {
-    return document.documentElement.getAttribute("data-theme") === "dark" ? "dark" : "light";
-  }
-
-  function applyTheme(theme) {
-    document.documentElement.setAttribute("data-theme", theme);
-    try {
-      localStorage.setItem("theme", theme);
-    } catch (e) {}
-  }
-
-  if (themeToggle) {
-    themeToggle.addEventListener("click", function () {
-      applyTheme(currentTheme() === "dark" ? "light" : "dark");
     });
   }
 

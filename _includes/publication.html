@@ -8,7 +8,7 @@
     <h3 class="pub-title">{{ include.paper.title }}</h3>
     <p class="pub-authors">{{ highlighted }}</p>
     <p class="pub-meta">
-      <span class="venue">{{ include.paper.venue }}</span>
+      {% if include.paper.venue %}<span class="venue">{{ include.paper.venue }}</span>{% endif %}
       {% if include.paper.note %}<span class="pub-note">{{ include.paper.note }}</span>{% endif %}
     </p>
     {% if include.paper.links %}
