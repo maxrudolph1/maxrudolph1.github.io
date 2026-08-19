@@ -5,6 +5,7 @@
   venue: ICLR 2026
   authors: "Max Rudolph*, Nathan Lichtle*, Sobhan Mohammadpour*, Alexandre Bayen, J. Zico Kolter, Amy Zhang, Gabriele Farina, Eugene Vinitsky, Samuel Sokota"
   note: "RLC 2025-CoCoMARL Workshop, Oral"
+  thumb: /images/papers/iig.jpg
   links:
     - label: paper
       url: https://arxiv.org/pdf/2502.08938
@@ -19,6 +20,7 @@
   year: 2025
   venue: NeurIPS 2025
   authors: "Harshit Sikchi*, Siddhant Agarwal*, Pranaya Jajoo*, Samyak Parajuli*, Caleb Chuck*, Max Rudolph*, Peter Stone, Amy Zhang, Scott Niekum"
+  thumb: /images/papers/rlzero.jpg
   links:
     - label: paper
       url: https://arxiv.org/abs/2412.05718
@@ -29,6 +31,7 @@
   year: 2024
   venue: Reinforcement Learning Conference, 2024
   authors: "Max Rudolph*, Caleb Chuck*, Kevin Black*, Misha Lvovsky, Scott Niekum, Amy Zhang"
+  thumb: /images/papers/action-bisim.jpg
   links:
     - label: paper
       url: https://arxiv.org/abs/2403.16369
@@ -38,6 +41,7 @@
 - title: "Robot Air Hockey: A Manipulation Testbed for Robot Learning with Reinforcement Learning"
   year: 2024
   authors: "Caleb Chuck*, Carl Qi*, Michael Joseph Munje*, Shuozhe Li*, Max Rudolph*, Chang Shi*, Siddhant Agarwal*, Harshit Sikchi*, Abhinav Peri, Sarthak Dayal, Evan Kuo, Kavan Mehta, Anthony Wang, Peter Stone, Amy Zhang, Scott Niekum"
+  thumb: /images/papers/air-hockey.jpg
   links:
     - label: paper
       url: https://arxiv.org/abs/2405.03113
@@ -46,6 +50,7 @@
   year: 2023
   venue: Conference on Robot Learning (CoRL), 2023
   authors: "Max Rudolph*, Pierce Howell*, Reza Torbati, Kevin Fu, Harish Ravichandar"
+  thumb: /images/papers/cap-comm.jpg
   links:
     - label: paper
       url: https://arxiv.org/abs/2401.13127
@@ -59,6 +64,7 @@
   venue: Conference on Robot Learning (CoRL), 2022
   authors: "Joanne Truong, Max Rudolph, Naoki Yokoyama, Sonia Chernova, Dhruv Batra, Akshara Rai"
   note: "CoRL, 2022– Sim-to-Real Robot Learning: Locomotion and Beyond Workshop, Spotlight"
+  thumb: /images/papers/sim2real.jpg
   links:
     - label: paper
       url: https://arxiv.org/abs/2207.10821
@@ -67,6 +73,7 @@
   year: 2021
   venue: In Proc. of The International Conference on Intelligent Robots and Systems (IROS), 2021
   authors: "Max Rudolph, Sonia Chernova, Harish Ravichandar"
+  thumb: /images/papers/risk-adaptive.jpg
   links:
     - label: paper
       url: https://arxiv.org/abs/2108.00346
@@ -77,6 +84,7 @@
   year: 2021
   venue: In Proc. of The International Conference in Robotics and Automation (ICRA), 2021.
   authors: "Max Rudolph, Sean Wilson, Magnus Egerstedt"
+  thumb: /images/papers/coverage.jpg
   links:
     - label: paper
       url: https://arxiv.org/abs/2306.07385

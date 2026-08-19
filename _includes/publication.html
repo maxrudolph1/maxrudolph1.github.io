@@ -4,6 +4,9 @@
   <div class="pub-year" {% unless show_year %}aria-hidden="true"{% endunless %}>
     {% if show_year %}{{ include.paper.year }}{% endif %}
   </div>
+  {% if include.paper.thumb %}
+    <img class="pub-thumb" src="{{ include.paper.thumb | relative_url }}" alt="" width="88" height="88">
+  {% endif %}
   <div class="pub-body">
     <h3 class="pub-title">{{ include.paper.title }}</h3>
     <p class="pub-authors">{{ highlighted }}</p>

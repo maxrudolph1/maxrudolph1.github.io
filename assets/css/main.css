@@ -450,10 +450,18 @@ h2 {
 
 .pub {
   display: grid;
-  grid-template-columns: 4.6rem minmax(0, 1fr);
+  grid-template-columns: 4.6rem 5.5rem minmax(0, 1fr);
   gap: 1.2rem;
   padding: 1.35rem 0;
   border-top: 1px solid var(--line);
+  align-items: start;
+}
+
+.pub-thumb {
+  width: 5.5rem;
+  height: 5.5rem;
+  object-fit: cover;
+  background: #111;
 }
 
 .pub:last-child {
@@ -771,7 +779,16 @@ h2 {
     display: flex;
   }
 
-  .pub,
+  .pub {
+    grid-template-columns: 5.5rem minmax(0, 1fr);
+    gap: 0.85rem;
+  }
+
+  .pub-year {
+    grid-column: 1 / -1;
+    padding-top: 0;
+  }
+
   .news li {
     grid-template-columns: 1fr;
     gap: 0.25rem;
