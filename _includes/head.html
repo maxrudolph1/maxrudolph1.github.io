@@ -12,6 +12,8 @@
   <meta property="og:image" content="{{ '/images/web/profile.jpg' | absolute_url }}">
 
   <link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic">
+  <script>
+    document.documentElement.classList.add(Math.random() < 0.5 ? "font-palatino" : "font-helvetica");
+  </script>
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 </head>
