@@ -16,9 +16,7 @@ redirect_from:
       <a href="{{ site.author.scholar }}" target="_blank" rel="noopener">Google Scholar</a> /
       <a href="https://twitter.com/{{ site.author.twitter }}" target="_blank" rel="noopener">Twitter</a> /
       <a href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener">GitHub</a> /
-      <a href="{{ site.author.cv | relative_url }}">CV</a> /
-      <a href="{{ '/photos/' | relative_url }}">Photography</a> /
-      <a href="{{ '/hobbies/' | relative_url }}">Hobbies</a>
+      <a href="{{ site.author.cv | relative_url }}">CV</a>
     </p>
     <p><a href="{{ site.author.cv | relative_url }}">Detailed C.V.</a> (updated August 2025)</p>
   </div>
@@ -36,13 +34,15 @@ redirect_from:
   {% endfor %}
 </ul>
 
-<h2>Publications</h2>
-{% for paper in site.data.publications %}
-  {% include publication.html paper=paper show_year=false %}
-{% endfor %}
+<h2>Selected Publications</h2>
+{% include publications_by_topic.html %}
 
 <h2>Other stuff</h2>
 <p>I like to play tennis and make <a href="{{ '/hobbies/' | relative_url }}#chocolate">bean-to-bar chocolate</a> and <a href="{{ '/hobbies/' | relative_url }}#chocolate">bon bons</a>. I also run the CS Graduate Student organization (<a href="https://www.cs.utexas.edu/~gracs/">GRACS</a>) for UTCS. During undergrad, I was lucky to intern at the National Security Agency and NASA <a href="https://www.jpl.nasa.gov/edu/news/2020/1/9/intern-turns-head-on-nasas-next-mars-rover/">Jet Propulsion Lab</a> for two summers working on software for the <a href="https://science.nasa.gov/mission/mars-2020-perseverance/">Mars Perseverence Rover</a> and control algorithms for the <a href="https://science.nasa.gov/mission/psyche/">Psyche Mission</a>.</p>
+<p>
+  <a href="{{ '/photos/' | relative_url }}">Photography</a> /
+  <a href="{{ '/hobbies/' | relative_url }}">Hobbies</a>
+</p>
 <div class="also-photos">
   <a href="{{ '/hobbies/' | relative_url }}#chocolate"><img src="{{ '/images/web/bean_to_bar.jpg' | relative_url }}" alt="" loading="lazy"></a>
   <a href="{{ '/hobbies/' | relative_url }}#chocolate"><img src="{{ '/images/web/earth_day_chocolates.jpg' | relative_url }}" alt="" loading="lazy"></a>

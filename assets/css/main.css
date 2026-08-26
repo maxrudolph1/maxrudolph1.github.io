@@ -42,6 +42,16 @@ h3 {
   font-weight: 700;
 }
 
+.pub-topic {
+  margin: 22px 0 12px;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+h2 + .pub-topic {
+  margin-top: 12px;
+}
+
 p {
   margin: 0 0 12px;
 }

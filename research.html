@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Publications
+title: Selected Publications
 permalink: /research/
 redirect_from:
   - /publications/
   - /publications.html
 ---
-{% for paper in site.data.publications %}
-  {% include publication.html paper=paper %}
-{% endfor %}
+{% include publications_by_topic.html %}

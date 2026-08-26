@@ -5,6 +5,8 @@
   venue: ICLR 2026
   authors: "Max Rudolph*, Nathan Lichtle*, Sobhan Mohammadpour*, Alexandre Bayen, J. Zico Kolter, Amy Zhang, Gabriele Farina, Eugene Vinitsky, Samuel Sokota"
   note: "RLC 2025-CoCoMARL Workshop, Oral"
+  topics:
+    - multi-agent
   thumb: /images/papers/iig.jpg
   links:
     - label: paper
@@ -20,6 +22,8 @@
   year: 2025
   venue: NeurIPS 2025
   authors: "Harshit Sikchi*, Siddhant Agarwal*, Pranaya Jajoo*, Samyak Parajuli*, Caleb Chuck*, Max Rudolph*, Peter Stone, Amy Zhang, Scott Niekum"
+  topics:
+    - representation-learning
   thumb: /images/papers/rlzero.jpg
   links:
     - label: paper
@@ -31,6 +35,8 @@
   year: 2024
   venue: Reinforcement Learning Conference, 2024
   authors: "Max Rudolph*, Caleb Chuck*, Kevin Black*, Misha Lvovsky, Scott Niekum, Amy Zhang"
+  topics:
+    - representation-learning
   thumb: /images/papers/action-bisim.jpg
   links:
     - label: paper
@@ -41,6 +47,8 @@
 - title: "Robot Air Hockey: A Manipulation Testbed for Robot Learning with Reinforcement Learning"
   year: 2024
   authors: "Caleb Chuck*, Carl Qi*, Michael Joseph Munje*, Shuozhe Li*, Max Rudolph*, Chang Shi*, Siddhant Agarwal*, Harshit Sikchi*, Abhinav Peri, Sarthak Dayal, Evan Kuo, Kavan Mehta, Anthony Wang, Peter Stone, Amy Zhang, Scott Niekum"
+  topics:
+    - robotics
   thumb: /images/papers/air-hockey.jpg
   links:
     - label: paper
@@ -50,6 +58,9 @@
   year: 2023
   venue: Conference on Robot Learning (CoRL), 2023
   authors: "Max Rudolph*, Pierce Howell*, Reza Torbati, Kevin Fu, Harish Ravichandar"
+  topics:
+    - multi-agent
+    - robotics
   thumb: /images/papers/cap-comm.jpg
   links:
     - label: paper
@@ -64,6 +75,8 @@
   venue: Conference on Robot Learning (CoRL), 2022
   authors: "Joanne Truong, Max Rudolph, Naoki Yokoyama, Sonia Chernova, Dhruv Batra, Akshara Rai"
   note: "CoRL, 2022– Sim-to-Real Robot Learning: Locomotion and Beyond Workshop, Spotlight"
+  topics:
+    - robotics
   thumb: /images/papers/sim2real.jpg
   links:
     - label: paper
@@ -73,6 +86,9 @@
   year: 2021
   venue: In Proc. of The International Conference on Intelligent Robots and Systems (IROS), 2021
   authors: "Max Rudolph, Sonia Chernova, Harish Ravichandar"
+  topics:
+    - multi-agent
+    - robotics
   thumb: /images/papers/risk-adaptive.jpg
   links:
     - label: paper
@@ -84,6 +100,9 @@
   year: 2021
   venue: In Proc. of The International Conference in Robotics and Automation (ICRA), 2021.
   authors: "Max Rudolph, Sean Wilson, Magnus Egerstedt"
+  topics:
+    - multi-agent
+    - robotics
   thumb: /images/papers/coverage.jpg
   links:
     - label: paper

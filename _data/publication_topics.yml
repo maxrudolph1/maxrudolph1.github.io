@@ -1,0 +1,8 @@
+- id: multi-agent
+  label: Multi-agent
+
+- id: representation-learning
+  label: Representation learning
+
+- id: robotics
+  label: Robotics

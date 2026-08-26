@@ -1,0 +1,8 @@
+{% for topic in site.data.publication_topics %}
+  <h3 class="pub-topic">{{ topic.label }}</h3>
+  {% for paper in site.data.publications %}
+    {% if paper.topics contains topic.id %}
+      {% include publication.html paper=paper %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
