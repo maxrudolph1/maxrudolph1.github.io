@@ -2,11 +2,12 @@
 <html lang="en">
   {% include head.html %}
   <body>
-    {% include nav.html %}
-    <main id="content">
+    {% unless page.url == "/" %}
+      {% include nav.html %}
+    {% endunless %}
+    <main>
       {{ content }}
     </main>
-    {% include footer.html %}
     <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
   </body>
 </html>

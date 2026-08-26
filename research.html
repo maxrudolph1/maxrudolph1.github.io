@@ -6,14 +6,6 @@ redirect_from:
   - /publications/
   - /publications.html
 ---
-<div class="pub-list pub-list-full">
-  {% assign prev_year = "" %}
-  {% for paper in site.data.publications %}
-    {% assign show_year = false %}
-    {% if paper.year != prev_year %}
-      {% assign show_year = true %}
-      {% assign prev_year = paper.year %}
-    {% endif %}
-    {% include publication.html paper=paper show_year=show_year %}
-  {% endfor %}
-</div>
+{% for paper in site.data.publications %}
+  {% include publication.html paper=paper %}
+{% endfor %}
