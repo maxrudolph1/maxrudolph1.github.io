@@ -1,0 +1,33 @@
+---
+layout: page
+title: Hobbies
+permalink: /hobbies/
+---
+<p>I like to play tennis and make bean-to-bar chocolate and bon bons.</p>
+
+<p class="hobby-tabs">
+  <a href="#chocolate">Chocolate</a>
+</p>
+
+<section id="chocolate" class="hobby-panel">
+  <div class="gallery gallery-natural">
+    <figure class="gallery-item">
+      <button type="button" class="gallery-open" data-full="{{ '/images/web/bean_to_bar.jpg' | relative_url }}" data-caption="bean-to-bar chocolate">
+        <img src="{{ '/images/web/bean_to_bar.jpg' | relative_url }}" alt="bean-to-bar chocolate" loading="lazy">
+      </button>
+      <figcaption>bean-to-bar chocolate</figcaption>
+    </figure>
+    <figure class="gallery-item">
+      <button type="button" class="gallery-open" data-full="{{ '/images/web/earth_day_chocolates.jpg' | relative_url }}" data-caption="bon bons">
+        <img src="{{ '/images/web/earth_day_chocolates.jpg' | relative_url }}" alt="bon bons" loading="lazy">
+      </button>
+      <figcaption>bon bons</figcaption>
+    </figure>
+  </div>
+</section>
+
+<div class="lightbox" hidden>
+  <button type="button" class="lightbox-close" aria-label="×">×</button>
+  <img alt="">
+  <p class="lightbox-caption"></p>
+</div>

@@ -132,6 +132,18 @@ p {
   flex-wrap: wrap;
 }
 
+.hobby-tabs {
+  margin: 0 0 16px;
+}
+
+.hobby-panel {
+  display: none;
+}
+
+.hobby-panel:target {
+  display: block;
+}
+
 .gallery {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -155,6 +167,12 @@ p {
   width: 100%;
   aspect-ratio: 3 / 2;
   object-fit: cover;
+}
+
+.gallery-natural .gallery-open img {
+  aspect-ratio: auto;
+  height: auto;
+  object-fit: contain;
 }
 
 .gallery-item figcaption {
