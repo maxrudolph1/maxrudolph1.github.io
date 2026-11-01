@@ -8,7 +8,7 @@ All of the living content lives in `_data/`. Add new items **at the top** of the
 
 | File | What it controls |
 | --- | --- |
-| `_data/publications.yml` | Papers on the homepage (if `featured: true`) and on `/research/` |
+| `_data/publications.yml` | Papers; selected entries (`featured: true`) appear on the homepage and `/research/`, newest first |
 | `_data/news.yml` | Homepage updates |
 | `_data/photos.yml` | `/photos/` gallery |
 | `_data/education.yml` | Education list on the homepage |
@@ -33,7 +33,7 @@ Drop a block like this at the top of `_data/publications.yml`:
       url: https://github.com/you/repo
 ```
 
-`featured: true` puts it on the homepage. Leave it off (or omit it) for the full research page only. Link labels can be anything: `paper`, `code`, `project`, `demo`, `talk`, etc.
+`featured: true` puts it in Selected Research on the homepage and `/research/`. Selected papers appear once, ordered by year from newest to oldest. Leave it off (or omit it) to keep a paper in the data without displaying it in Selected Research. Link labels can be anything: `paper`, `code`, `project`, `demo`, `talk`, etc.
 
 Your name is bolded automatically wherever `Max Rudolph` appears in the author string.
 

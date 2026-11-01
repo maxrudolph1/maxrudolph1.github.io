@@ -1,6 +1,7 @@
 # Add new papers at the top.
 
 - title: "Reevaluating Policy Gradient Methods for Imperfect-Information Games"
+  featured: true
   year: 2026
   venue: ICLR 2026
   authors: "Max Rudolph*, Nathan Lichtle*, Sobhan Mohammadpour*, Alexandre Bayen, J. Zico Kolter, Amy Zhang, Gabriele Farina, Eugene Vinitsky, Samuel Sokota"
@@ -19,6 +20,7 @@
       url: https://www.nathanlichtle.com/research/2p0s
 
 - title: "RL Zero: Zero-Shot Language to Behaviors without any Supervision"
+  featured: true
   year: 2025
   venue: NeurIPS 2025
   authors: "Harshit Sikchi*, Siddhant Agarwal*, Pranaya Jajoo*, Samyak Parajuli*, Caleb Chuck*, Max Rudolph*, Peter Stone, Amy Zhang, Scott Niekum"
@@ -32,6 +34,7 @@
       url: https://hari-sikchi.github.io/rlzero/
 
 - title: "Learning Action-based Representations Using Invariance"
+  featured: true
   year: 2024
   venue: Reinforcement Learning Conference, 2024
   authors: "Max Rudolph*, Caleb Chuck*, Kevin Black*, Misha Lvovsky, Scott Niekum, Amy Zhang"
@@ -71,6 +74,7 @@
       url: https://sites.google.com/view/cap-comm
 
 - title: "Rethinking Sim2Real: Lower Fidelity Simulation Leads to Higher Sim2Real Transfer in Navigation"
+  featured: true
   year: 2022
   venue: Conference on Robot Learning (CoRL), 2022
   authors: "Joanne Truong, Max Rudolph, Naoki Yokoyama, Sonia Chernova, Dhruv Batra, Akshara Rai"

@@ -1,0 +1,4 @@
+{% assign selected_papers = site.data.publications | where: "featured", true | sort: "year" | reverse %}
+{% for paper in selected_papers %}
+  {% include publication.html paper=paper %}
+{% endfor %}
